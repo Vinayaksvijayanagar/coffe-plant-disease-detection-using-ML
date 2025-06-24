@@ -1,0 +1,1180 @@
+{
+  "Healthy": {
+    "en": {
+      "name": "Healthy",
+      "info": "No disease detected. Your plant is healthy!",
+      "occurrence": "Optimal soil conditions, good drainage, and proper fertilization prevent disease.",
+      "time_of_occurrence": "Year-round if proper care is maintained.",
+      "causes": "Lack of pests, diseases, and environmental stressors.",
+      "treatment": {
+        "primary": "Maintain good irrigation, soil health, and regular pruning.",
+        "moderate": "Monitor for early signs of disease and take preventive actions.",
+        "high": "Use organic compost, shade management, and balanced fertilizers."
+      }
+    },
+    "es": {
+      "name": "Saludable",
+      "info": "No se detectó ninguna enfermedad. ¡Tu planta está saludable!",
+      "occurrence": "Las condiciones óptimas del suelo, un buen drenaje y una fertilización adecuada previenen enfermedades.",
+      "time_of_occurrence": "Durante todo el año si se mantiene el cuidado adecuado.",
+      "causes": "Falta de plagas, enfermedades y factores de estrés ambiental.",
+      "treatment": {
+        "primary": "Mantener un buen riego, la salud del suelo y la poda regular.",
+        "moderate": "Monitorear signos tempranos de enfermedades y tomar acciones preventivas.",
+        "high": "Utilizar compost orgánico, manejo de sombra y fertilizantes equilibrados."
+      }
+    },
+    "hi": {
+      "name": "स्वस्थ",
+      "info": "कोई बीमारी नहीं पाई गई। आपका पौधा स्वस्थ है!",
+      "occurrence": "उत्तम मिट्टी की स्थिति, अच्छा जल निकास और उचित उर्वरक बीमारी को रोकते हैं।",
+      "time_of_occurrence": "साल भर यदि उचित देखभाल की जाए।",
+      "causes": "कीट, बीमारियाँ और पर्यावरणीय तनाव की अनुपस्थिति।",
+      "treatment": {
+        "primary": "अच्छी सिंचाई, मिट्टी की गुणवत्ता और नियमित छंटाई बनाए रखें।",
+        "moderate": "बीमारी के शुरुआती लक्षणों की निगरानी करें और रोकथाम करें।",
+        "high": "जैविक खाद, छाया प्रबंधन और संतुलित उर्वरकों का उपयोग करें।"
+      }
+    },
+    "kn": {
+      "name": "ಆರೋಗ್ಯವಂತ",
+      "info": "ಯಾವುದೇ ರೋಗ ಪತ್ತೆಯಾಗಿಲ್ಲ. ನಿಮ್ಮ ಗಿಡ ಆರೋಗ್ಯವಾಗಿದೆ!",
+      "occurrence": "ಆಪ್ಟಿಮಲ್ ಮಣ್ಣಿನ ಸ್ಥಿತಿಗಳು, ಉತ್ತಮ ನೀರಿನ ಹರಿವು ಮತ್ತು ಸೂಕ್ತ ಗೊಬ್ಬರ ರೋಗಗಳನ್ನು ತಡೆಯುತ್ತವೆ.",
+      "time_of_occurrence": "ಸರಿಯಾದ ಶ್ರದ್ಧೆಯಿಂದ ವರ್ಷಪೂರ್ತಿ ಆರೋಗ್ಯವಂತವಾಗಿರಬಹುದು.",
+      "causes": "ಜೀವಾಣುಗಳು, ರೋಗಗಳು ಮತ್ತು ಪರಿಸರದ ಒತ್ತಡಗಳ ಕೊರತೆ.",
+      "treatment": {
+        "primary": "ಉತ್ತಮ ನೀರಾವರಿ, ಮಣ್ಣಿನ ಆರೋಗ್ಯ ಮತ್ತು ನಿಯಮಿತ ಕಡಿಯುವಿಕೆಯನ್ನು ಕಾಪಾಡಿ.",
+        "moderate": "ರೋಗದ ಪ್ರಾಥಮಿಕ ಲಕ್ಷಣಗಳನ್ನು ಗಮನಿಸಿ ಮತ್ತು ತಡೆಗಟ್ಟುವ ಕ್ರಮ ತೆಗೆದುಕೊಳ್ಳಿ.",
+        "high": "ಸೈವಿಕ ಕಾಂಪೋಸ್ಟ್, ನೆರಳು ನಿರ್ವಹಣೆ ಮತ್ತು ಸಮತೋಲನಗೊಳಿಸಿದ ಗೊಬ್ಬರ ಬಳಸಿ."
+      }
+    },
+    "te": {
+      "name": "ఆరోగ్యంగా ఉంది",
+      "info": "ఏదైనా వ్యాధి గుర్తించబడలేదు. మీ మొక్క ఆరోగ్యంగా ఉంది!",
+      "occurrence": "ఉత్తమ మట్టినిల్వలు, మంచినీటి కాలువలు మరియు సరైన ఎరువులు వ్యాధులను నివారిస్తాయి.",
+      "time_of_occurrence": "సరైన సంరక్షణతో సంవత్సరంతా ఆరోగ్యంగా ఉంటుంది.",
+      "causes": "పురుగులు, రోగాలు మరియు పర్యావరణ ఒత్తిళ్ల లేమి.",
+      "treatment": {
+        "primary": "సరిగ్గా నీరు పెట్టడం, మట్టిని మెరుగుపరచడం మరియు క్రమంగా కొట్టడం కొనసాగించండి.",
+        "moderate": "ప్రారంభ దశల రోగ లక్షణాలను పరిశీలించి ముందస్తుగా చర్యలు తీసుకోండి.",
+        "high": "జైవ ఎరువులు, నీడ నిర్వహణ మరియు సమతుల్య ఎరువులు ఉపయోగించండి."
+      }
+    }
+  },
+  "Coffee Leaf Rust": {
+    "en": {
+      "name": "Coffee Leaf Rust",
+      "info": "A fungal disease that causes yellow-orange powdery spots on leaves.",
+      "occurrence": "Occurs in warm, humid climates with high rainfall and poor ventilation.",
+      "time_of_occurrence": "Most severe during wet seasons.",
+      "causes": "Caused by the fungus Hemileia vastatrix, which spreads through wind and rain.",
+      "treatment": {
+        "primary": "Remove and burn infected leaves. Improve ventilation by pruning trees.",
+        "moderate": "Apply copper-based fungicides and neem oil.",
+        "high": "Use resistant coffee varieties and implement a fungicide spraying schedule."
+      }
+    },
+    "es": {
+      "name": "Roya del Café",
+      "info": "Una enfermedad fúngica que causa manchas amarillas anaranjadas en las hojas.",
+      "occurrence": "Ocurre en climas cálidos y húmedos con alta precipitación y mala ventilación.",
+      "time_of_occurrence": "Más severo durante las temporadas húmedas.",
+      "causes": "Causado por el hongo Hemileia vastatrix, que se propaga a través del viento y la lluvia.",
+      "treatment": {
+        "primary": "Eliminar y quemar hojas infectadas. Mejorar la ventilación podando los árboles.",
+        "moderate": "Aplicar fungicidas a base de cobre y aceite de neem.",
+        "high": "Usar variedades de café resistentes e implementar un programa de fumigación."
+      }
+    },
+    "hi": {
+      "name": "कॉफी लीफ रस्ट",
+      "info": "एक फंगल रोग जो पत्तियों पर पीले-नारंगी पाउडर जैसे धब्बे बनाता है।",
+      "occurrence": "गर्म और नम जलवायु में अधिक वर्षा और खराब वेंटिलेशन वाले क्षेत्रों में होता है।",
+      "time_of_occurrence": "सबसे अधिक गंभीर गीले मौसम में होता है।",
+      "causes": "यह फफूंदी हेमिलिया वास्टैट्रिक्स के कारण होता है, जो हवा और बारिश से फैलता है।",
+      "treatment": {
+        "primary": "संक्रमित पत्तियों को हटाकर जला दें। पेड़ों की छंटाई करके वेंटिलेशन सुधारें।",
+        "moderate": "कॉपर-आधारित कवकनाशी और नीम का तेल लगाएं।",
+        "high": "प्रतिरोधी कॉफी किस्मों का उपयोग करें और नियमित छिड़काव करें।"
+      }
+    },
+    "kn": {
+      "name": "ಕಾಫಿ ಲೀಫ್ ರಸ್ಟ್",
+      "info": "ಇದು ಎಲೆಗಳಲ್ಲಿ ಹಳದಿ-ಕಿತ್ತಳೆ ಪುಡಿ ರಾಶಿಗಳನ್ನುಂಟುಮಾಡುವ ಶಿಲೀಂಧ್ರ ರೋಗ.",
+      "occurrence": "ಈ ರೋಗ ಹೆಚ್ಚು ತೇವಾಂಶವಿರುವ, ಜಲವಾಯು ಹಾಗೂ ಕಡಿಮೆ ವಾತಾಯನ ಇರುವ ಸ್ಥಳಗಳಲ್ಲಿ ಸಂಭವಿಸುತ್ತದೆ.",
+      "time_of_occurrence": "ಇದು ಹೆಚ್ಚು ಮಳೆಗಾಲದಲ್ಲಿ ತೀವ್ರವಾಗಿರುತ್ತದೆ.",
+      "causes": "ಇದು Hemileia vastatrix ಎಂಬ ಶಿಲೀಂಧ್ರದಿಂದ ಉಂಟಾಗುತ್ತದೆ, ಇದು ಗಾಳಿ ಮತ್ತು ಮಳೆಯ ಮೂಲಕ ಹರಡುತ್ತದೆ.",
+      "treatment": {
+        "primary": "ಬಾಧಿತ ಎಲೆಗಳನ್ನು ತೆಗೆಯಿ ಮತ್ತು ಸುಡಿಸಿ. ಕಡಿಯುವ ಮೂಲಕ ವಾತಾಯನವನ್ನು ಸುಧಾರಿಸಿ.",
+        "moderate": "ತಾಮ್ರ ಆಧಾರಿತ ಶಿಲೀಂಧ್ರನಾಶಕ ಮತ್ತು ನೀಮ್ ಎಣ್ಣೆ ಉಪಯೋಗಿಸಿ.",
+        "high": "ರೋಗ ನಿರೋಧಕ ಕಾಫಿ ಜಾತಿಗಳನ್ನು ಬೆಳೆಸಿ ಮತ್ತು ಶಿಲೀಂಧ್ರನಾಶಕ ಸ್ಪ್ರೇ ಮಾಡುವ ನಿಯಮಿತ ವೇಳಾಪಟ್ಟಿ ಅನುಸರಿಸಿ."
+      }
+    },
+    "te": {
+      "name": "కాఫీ ఆకుల తెగులు",
+      "info": "ఇది ఆకులపై పసుపు-నారింజ రంగు పొడి మచ్చలు ఏర్పడే శిలీంద్ర వ్యాధి.",
+      "occurrence": "ఇది ఎక్కువ వర్షపాతం మరియు తక్కువ గాలిచలనం ఉన్న తేమతో కూడిన వాతావరణంలో జరుగుతుంది.",
+      "time_of_occurrence": "ఈ వ్యాధి అధికంగా వర్షకాలంలో కనిపిస్తుంది.",
+      "causes": "ఇది Hemileia vastatrix అనే శిలీంద్రం వల్ల ఏర్పడుతుంది, ఇది గాలి మరియు వర్షం ద్వారా వ్యాపిస్తుంది.",
+      "treatment": {
+        "primary": "దుష్ప్రభావిత ఆకులను తొలగించి కాల్చండి. చెట్లను కత్తిరించడం ద్వారా గాలిచలనం మెరుగుపరచండి.",
+        "moderate": "తామ్ర ఆధారిత శిలీంద్రనాశకాలు మరియు నిమ్మెన్నెను ఉపయోగించండి.",
+        "high": "వ్యాధినిరోధక కాఫీ జాతులను ఉపయోగించి షెడ్యూల్ ప్రకారం శిలీంద్రనాశకాలను స్ప్రే చేయండి."
+      }
+    }
+  },
+  "Cercospora Leaf Spot": {
+    "en": {
+      "name": "Cercospora Leaf Spot",
+      "info": "A fungal disease causing brown spots with yellow halos on coffee leaves.",
+      "occurrence": "Thrives in warm, humid conditions, especially when leaves remain wet for long periods.",
+      "time_of_occurrence": "More common in the rainy season.",
+      "causes": "Caused by the fungus Cercospora coffeicola, often due to excessive leaf moisture.",
+      "treatment": {
+        "primary": "Improve spacing between plants for better airflow and remove infected leaves.",
+        "moderate": "Use organic sprays like neem oil and potassium bicarbonate.",
+        "high": "Apply fungicides containing copper or mancozeb."
+      }
+    },
+    "es": {
+      "name": "Mancha de Cercospora",
+      "info": "Una enfermedad fúngica que causa manchas marrones con halos amarillos en las hojas de café.",
+      "occurrence": "Prospera en condiciones cálidas y húmedas, especialmente cuando las hojas permanecen mojadas por períodos prolongados.",
+      "time_of_occurrence": "Más común en la temporada de lluvias.",
+      "causes": "Causada por el hongo Cercospora coffeicola, a menudo debido a un exceso de humedad en las hojas.",
+      "treatment": {
+        "primary": "Mejorar el espacio entre plantas para una mejor circulación de aire y eliminar las hojas infectadas.",
+        "moderate": "Usar aerosoles orgánicos como aceite de neem y bicarbonato de potasio.",
+        "high": "Aplicar fungicidas que contengan cobre o mancozeb."
+      }
+    },
+    "hi": {
+      "name": "सर्कोस्पोरा लीफ स्पॉट",
+      "info": "एक फंगल रोग जो कॉफी की पत्तियों पर भूरे धब्बे और पीले किनारे बनाता है।",
+      "occurrence": "गर्म, नम स्थितियों में पनपता है, विशेष रूप से जब पत्तियां लंबे समय तक गीली रहती हैं।",
+      "time_of_occurrence": "बरसात के मौसम में अधिक सामान्य।",
+      "causes": "कवक Cercospora coffeicola के कारण होता है, अक्सर अत्यधिक पत्ती नमी के कारण।",
+      "treatment": {
+        "primary": "बेहतर वायु प्रवाह के लिए पौधों के बीच की दूरी सुधारें और संक्रमित पत्तियों को हटा दें।",
+        "moderate": "नीम तेल और पोटैशियम बाइकार्बोनेट जैसे जैविक स्प्रे का उपयोग करें।",
+        "high": "कॉपर या मैंकोज़ेब युक्त फफूंदनाशकों का उपयोग करें।"
+      }
+    },
+    "kn": {
+      "name": "ಸರ್ಕೋಸ್ಪೋರಾ ಎಲೆ ಕೆಲಸ",
+      "info": "ಕಾಫಿ ಎಲೆಗಳಲ್ಲಿ ಹಳದಿ ವಲಯಗಳೊಂದಿಗೆ ಕಂದು ಕೆಲಸ ಉಂಟುಮಾಡುವ ಶಿಲೀಂಧ್ರ ರೋಗ.",
+      "occurrence": "ತೇವಾಂಶದ ವಾತಾವರಣದಲ್ಲಿ ಬೆಳೆಯುತ್ತವೆ, ವಿಶೇಷವಾಗಿ ಎಲೆಗಳು ಹೆಚ್ಚು ಹೊತ್ತು ಒದ್ದೆಯಾಗಿರುವಾಗ.",
+      "time_of_occurrence": "ಮಳೆಗಾಲದಲ್ಲಿ ಹೆಚ್ಚು ಸಾಮಾನ್ಯವಾಗಿದೆ.",
+      "causes": "Cercospora coffeicola ಎಂಬ ಶಿಲೀಂಧ್ರದಿಂದ ಉಂಟಾಗುತ್ತದೆ, ಸಾಮಾನ್ಯವಾಗಿ ಹೆಚ್ಚು ತೇವಾಂಶದಿಂದ.",
+      "treatment": {
+        "primary": "ಗಾಳಿ ಹರಿವು ಹೆಚ್ಚಿಸಲು ಗಿಡಗಳ ಮಧ್ಯೆ ಸ್ಥಳವನ್ನು ಸುಧಾರಿಸಿ ಮತ್ತು ಸೋಂಕಿತ ಎಲೆಗಳನ್ನು ತೆಗೆದುಹಾಕಿ.",
+        "moderate": "ನೀಮ್ ಎಣ್ಣೆ ಮತ್ತು ಪೊಟ್ಯಾಸಿಯಂ ಬೈಕಾರ್ಬೋನೇಟ್ ಉಪಯೋಗಿಸಿ.",
+        "high": "ತಾಮ್ರ ಅಥವಾ ಮ್ಯಾಂಕೋಜೆಬ್ ಹೊಂದಿರುವ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಬಳಸಿರಿ."
+      }
+    },
+    "te": {
+      "name": "సెర్కోస్పోరా ఆకుల మచ్చ",
+      "info": "కాఫీ ఆకులపై పసుపు అంచులతో గోధుమ రంగు మచ్చలు ఏర్పడే శిలీంద్ర వ్యాధి.",
+      "occurrence": "తేమతో కూడిన వేడెక్కిన వాతావరణంలో విస్తరిస్తుంది, ముఖ్యంగా ఆకులు ఎక్కువసేపు తడిగా ఉన్నప్పుడు.",
+      "time_of_occurrence": "వర్షాకాలంలో ఎక్కువగా కనిపిస్తుంది.",
+      "causes": "సెర్కోస్పోరా కాఫీకోలా అనే శిలీంద్రం కారణంగా వస్తుంది, ఇది సాధారణంగా ఎక్కువ తేమ వల్ల జరుగుతుంది.",
+      "treatment": {
+        "primary": "మంచి గాలిచలనం కోసం మొక్కల మధ్య ఖాళీని మెరుగుపరచి, అంటుకున్న ఆకులను తొలగించండి.",
+        "moderate": "నిమ్మెన్నె మరియు పొటాషియం బైకార్బోనేట్ వంటి సేంద్రీయ మందులను ఉపయోగించండి.",
+        "high": "రాగి లేదా మాంకోజెబ్ కలిగిన శిలీంద్రనాశకాలను ఉపయోగించండి."
+      }
+    }
+  },
+  "Phoma Leaf Spot": {
+    "en": {
+      "name": "Phoma Leaf Spot",
+      "info": "A fungal disease that causes dark, round spots on coffee leaves.",
+      "occurrence": "Common in cool, wet environments with high humidity.",
+      "time_of_occurrence": "Usually appears in the rainy season and colder months.",
+      "causes": "Caused by the fungus Phoma spp., often due to excessive moisture.",
+      "treatment": {
+        "primary": "Prune infected branches and improve soil drainage.",
+        "moderate": "Apply copper-based fungicides and biofungicides.",
+        "high": "Use resistant coffee varieties and implement proper crop rotation."
+      }
+    },
+    "es": {
+      "name": "Mancha foliar por Phoma",
+      "info": "Una enfermedad fúngica que causa manchas redondas oscuras en las hojas de café.",
+      "occurrence": "Común en ambientes fríos y húmedos con alta humedad.",
+      "time_of_occurrence": "Generalmente aparece en la temporada de lluvias y meses fríos.",
+      "causes": "Causada por el hongo Phoma spp., a menudo debido al exceso de humedad.",
+      "treatment": {
+        "primary": "Poda las ramas infectadas y mejora el drenaje del suelo.",
+        "moderate": "Aplicar fungicidas a base de cobre y biofungicidas.",
+        "high": "Usar variedades resistentes de café y aplicar rotación de cultivos adecuada."
+      }
+    },
+    "hi": {
+      "name": "फोमा लीफ स्पॉट",
+      "info": "एक फंगल रोग जो कॉफी की पत्तियों पर गहरे, गोल धब्बे बनाता है।",
+      "occurrence": "ठंडे और नम वातावरण में आम, जहाँ नमी अधिक होती है।",
+      "time_of_occurrence": "आमतौर पर बरसात और ठंडे महीनों में होता है।",
+      "causes": "फोमा प्रजातियों के कवक के कारण होता है, अक्सर अत्यधिक नमी के कारण।",
+      "treatment": {
+        "primary": "संक्रमित शाखाओं की छंटाई करें और मिट्टी की जल निकासी सुधारें।",
+        "moderate": "कॉपर आधारित फफूंदनाशक और जैविक फफूंदनाशकों का उपयोग करें।",
+        "high": "प्रतिरोधी कॉफी किस्मों का उपयोग करें और उचित फसल चक्र अपनाएं।"
+      }
+    },
+    "kn": {
+      "name": "ಫೊಮಾ ಎಲೆ ಕಲೆ",
+      "info": "ಕಾಫಿ ಎಲೆಗಳಲ್ಲಿ ಕಪ್ಪು, ವೃತ್ತಾಕಾರದ ಕಲೆಗಳನ್ನು ಉಂಟುಮಾಡುವ ಶಿಲೀಂಧ್ರ ರೋಗ.",
+      "occurrence": "ಸಾಧಾರಣವಾಗಿ ತಂಪಾದ, ತೇವಾಂಶ ತುಂಬಿದ ಪರಿಸರಗಳಲ್ಲಿ ಕಾಣುತ್ತದೆ.",
+      "time_of_occurrence": "ಮಳೆಯ ಋತು ಮತ್ತು ಚಳಿಗಾಲದಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿದೆ.",
+      "causes": "Phoma spp. ಶಿಲೀಂಧ್ರದಿಂದ ಉಂಟಾಗುತ್ತದೆ, ಹೆಚ್ಚಾದ ತೇವಾಂಶದಿಂದ ಆಗುತ್ತದೆ.",
+      "treatment": {
+        "primary": "ಸಂಕ್ರಮಿತ ಶಾಖೆಗಳ ಕತ್ತರಿಸಿ ಮತ್ತು ಮಣ್ಣಿನ ನೀರಿನ ಹರಿವು ಸುಧಾರಿಸಿ.",
+        "moderate": "ತಾಮ್ರ ಆಧಾರಿತ ಶಿಲೀಂಧ್ರನಾಶಕಗಳು ಮತ್ತು ಜೈವ ಶಿಲೀಂಧ್ರನಾಶಕ ಬಳಸಿ.",
+        "high": "ರೋಗ ನಿರೋಧಕ ಕಾಫಿ ತಳಿಗಳನ್ನು ಬಳಸಿ ಮತ್ತು ಸರಿಯಾದ ಬೆಳೆ ಪರಿವರ್ತನೆ ಮಾಡು."
+      }
+    },
+    "te": {
+      "name": "ఫోమా ఆకుల మచ్చ",
+      "info": "కాఫీ ఆకులపై నలుపు, గోళాకార మచ్చలు కలిగించే శిలీంద్ర వ్యాధి.",
+      "occurrence": "చల్లని, తేమతో కూడిన వాతావరణంలో సాధారణంగా కనిపిస్తుంది.",
+      "time_of_occurrence": "వర్షాకాలం మరియు చల్లని కాలంలో కనిపిస్తుంది.",
+      "causes": "Phoma spp. అనే శిలీంద్రం కారణంగా వస్తుంది, ఇది అధిక తేమ వల్ల ఏర్పడుతుంది.",
+      "treatment": {
+        "primary": "ఆక్రమిత శాఖలను కత్తిరించి మట్టిలో నీటి పారుదల మెరుగుపరచండి.",
+        "moderate": "తామ్ర ఆధారిత మరియు జీవశిలీంద్రనాశకాలను ఉపయోగించండి.",
+        "high": "రోగనిరోధక కాఫీ రకాలును ఉపయోగించి సరైన పంటల మార్పిడి అమలు చేయండి."
+      }
+    }
+  },
+  "Anthracnose": {
+    "en": {
+      "name": "Anthracnose",
+      "info": "A fungal disease causing dark, sunken lesions on leaves and berries.",
+      "occurrence": "Common in warm, humid regions with frequent rainfall.",
+      "time_of_occurrence": "During the rainy season or extended periods of high humidity.",
+      "causes": "Caused by Colletotrichum species, often due to excess moisture and poor airflow.",
+      "treatment": {
+        "primary": "Remove infected plant parts and ensure good ventilation.",
+        "moderate": "Apply copper-based fungicides and organic sprays like neem oil.",
+        "high": "Use systemic fungicides such as azoxystrobin for severe cases."
+      }
+    },
+    "es": {
+      "name": "Antracnosis",
+      "info": "Una enfermedad fúngica que causa lesiones oscuras y hundidas en hojas y bayas.",
+      "occurrence": "Común en regiones cálidas y húmedas con lluvias frecuentes.",
+      "time_of_occurrence": "Durante la temporada de lluvias o períodos prolongados de alta humedad.",
+      "causes": "Causada por especies de Colletotrichum, a menudo por exceso de humedad y mala ventilación.",
+      "treatment": {
+        "primary": "Eliminar las partes infectadas y asegurar buena ventilación.",
+        "moderate": "Aplicar fungicidas a base de cobre y aerosoles orgánicos como el aceite de neem.",
+        "high": "Usar fungicidas sistémicos como azoxystrobin en casos severos."
+      }
+    },
+    "hi": {
+      "name": "एंथ्रेक्नोज",
+      "info": "एक फंगल रोग जो पत्तियों और बेरीज पर काले, धँसे हुए घाव बनाता है।",
+      "occurrence": "गर्म, नम क्षेत्रों में आम, जहाँ बारिश अधिक होती है।",
+      "time_of_occurrence": "बरसात के मौसम या उच्च आर्द्रता वाले लंबे समय में।",
+      "causes": "Colletotrichum प्रजातियों के कारण, जो अधिक नमी और खराब वेंटिलेशन से होते हैं।",
+      "treatment": {
+        "primary": "संक्रमित भागों को हटाएं और अच्छी वेंटिलेशन सुनिश्चित करें।",
+        "moderate": "तांबा आधारित फफूंदनाशक और नीम तेल जैसे जैविक स्प्रे का प्रयोग करें।",
+        "high": "गंभीर मामलों में azoxystrobin जैसे प्रणालीगत फफूंदनाशक का प्रयोग करें।"
+      }
+    },
+    "kn": {
+      "name": "ಆನ್ತ್ರಾಕ್ನೋಸ್",
+      "info": "ಎಲೆಗಳು ಮತ್ತು ಬೆರಿಗಳಿಗೆ ಗಾಢ ಬಿಳುಕುಗಳು ಉಂಟುಮಾಡುವ ಶಿಲೀಂಧ್ರ ರೋಗ.",
+      "occurrence": "ಬಿಸಿ, ತೇವಾಂಶದ ಪ್ರದೇಶಗಳಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತದೆ.",
+      "time_of_occurrence": "ಮಳೆಯ ಋತು ಅಥವಾ ಹೆಚ್ಚಿನ ತೇವಾಂಶದ ಸಮಯದಲ್ಲಿ.",
+      "causes": "Colletotrichum ಪ್ರಜಾತಿಯ ಶಿಲೀಂಧ್ರಗಳಿಂದ ಉಂಟಾಗುತ್ತದೆ, ಹೆಚ್ಚುವರಿ ತೇವಾಂಶ ಮತ್ತು ಹವಾಮಾನ ವೈಫಲ್ಯದಿಂದ.",
+      "treatment": {
+        "primary": "ಸಂಕ್ರಮಿತ ಭಾಗಗಳನ್ನು ತೆಗೆದುಹಾಕಿ ಮತ್ತು ಉತ್ತಮ ಗಾಳಿಚಲನೆ ಖಚಿತಪಡಿಸಿ.",
+        "moderate": "ತಾಮ್ರ ಆಧಾರಿತ ಶಿಲೀಂಧ್ರನಾಶಕ ಮತ್ತು ನೀಮ್ ಎಣ್ಣೆ ಬಳಸಿ.",
+        "high": "ತೀವ್ರವಾಗಿದ್ದರೆ azoxystrobin ಶಿಲೀಂಧ್ರನಾಶಕ ಬಳಸಿರಿ."
+      }
+    },
+    "te": {
+      "name": "అన్ట్రాక్నోస్",
+      "info": "ఆకులు మరియు బెర్రీలపై నలుపు, లోతైన గాయాలను కలిగించే శిలీంద్ర వ్యాధి.",
+      "occurrence": "వేడి మరియు తేమపూరిత ప్రాంతాల్లో సాధారణంగా కనిపిస్తుంది.",
+      "time_of_occurrence": "వర్షాకాలంలో లేదా అధిక తేమ ఉన్న సమయంలో.",
+      "causes": "Colletotrichum జాతి శిలీంధ్రం కారణంగా, అధిక తేమ మరియు గాలిలేమి వల్ల వస్తుంది.",
+      "treatment": {
+        "primary": "ఆక్రమిత భాగాలను తొలగించి గాలిచలనం మెరుగుపరచండి.",
+        "moderate": "తామ్ర ఆధారిత శిలీంద్రనాశకాలు మరియు నిమ్మెన్నె వంటి సేంద్రీయ ప్రాసారం చేయండి.",
+        "high": "తీవ్రమైన పరిస్థితుల్లో azoxystrobin వంటి వ్యవస్థాత్మక శిలీంద్రనాశకాలు ఉపయోగించండి."
+      }
+    }
+  },
+  "Algal Leaf Spot": {
+    "en": {
+      "name": "Algal Leaf Spot",
+      "info": "A disease caused by parasitic algae leading to circular greenish spots on leaves.",
+      "occurrence": "Thrives in humid and shaded areas, often in poorly ventilated plantations.",
+      "time_of_occurrence": "Most active in the rainy season.",
+      "causes": "Caused by the algae Cephaleuros virescens, which infects weakened plants.",
+      "treatment": {
+        "primary": "Prune affected areas and remove infected leaves.",
+        "moderate": "Apply copper-based sprays and reduce humidity levels.",
+        "high": "Implement integrated disease management with fungicides."
+      }
+    },
+    "es": {
+      "name": "Mancha foliar algal",
+      "info": "Una enfermedad causada por algas parásitas que provoca manchas verdosas circulares en las hojas.",
+      "occurrence": "Prospera en zonas húmedas y sombreadas, a menudo en plantaciones mal ventiladas.",
+      "time_of_occurrence": "Más activa durante la temporada de lluvias.",
+      "causes": "Causada por el alga Cephaleuros virescens, que infecta plantas debilitadas.",
+      "treatment": {
+        "primary": "Podar las áreas afectadas y eliminar las hojas infectadas.",
+        "moderate": "Aplicar aerosoles a base de cobre y reducir los niveles de humedad.",
+        "high": "Implementar un manejo integrado de enfermedades con fungicidas."
+      }
+    },
+    "hi": {
+      "name": "शैवाल पत्ती धब्बा",
+      "info": "एक रोग जो परजीवी शैवाल के कारण होता है और पत्तियों पर हरे घेरे बनाता है।",
+      "occurrence": "नम और छायादार क्षेत्रों में पनपता है, खासकर खराब वेंटिलेशन वाले बागानों में।",
+      "time_of_occurrence": "सबसे अधिक सक्रियता बरसात के मौसम में होती है।",
+      "causes": "Cephaleuros virescens शैवाल के कारण होता है, जो कमजोर पौधों को संक्रमित करता है।",
+      "treatment": {
+        "primary": "प्रभावित क्षेत्रों की छंटाई करें और संक्रमित पत्तियों को हटाएं।",
+        "moderate": "तांबा आधारित स्प्रे लगाएं और आर्द्रता का स्तर कम करें।",
+        "high": "फफूंदनाशकों के साथ एकीकृत रोग प्रबंधन लागू करें।"
+      }
+    },
+    "kn": {
+      "name": "ಶೈವಲ ಎಲೆ ಕಲೆ",
+      "info": "ಪರೋಪಜೀವಿ ಶೈವಲದಿಂದ ಉಂಟಾಗುವ ರೋಗ, ಎಲೆಗಳಲ್ಲಿ ಹಸಿರು ವೃತ್ತಾಕಾರದ ಕಲೆಗಳನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ.",
+      "occurrence": "ತೇವಾಂಶ ಮತ್ತು ನೆರಳಿನ ಪ್ರದೇಶಗಳಲ್ಲಿ ಬೆಳೆಯುತ್ತದೆ, ಕಡಿಮೆ ಗಾಳಿಚಲನೆಯಿರುವ ತೋಟಗಳಲ್ಲಿ ಹೆಚ್ಚು.",
+      "time_of_occurrence": "ಮಳೆಗಾಲದಲ್ಲಿ ಹೆಚ್ಚು ಚಟುವಟಿಕೆಯಿಂದಿರುತ್ತದೆ.",
+      "causes": "Cephaleuros virescens ಎಂಬ ಶೈವಲದಿಂದ ಉಂಟಾಗುತ್ತದೆ, ಇದು ದುರ್ಬಲವಾದ ಗಿಡಗಳನ್ನು ಸೋಂಕು ಮಾಡುತ್ತದೆ.",
+      "treatment": {
+        "primary": "ಪರಿಣಾಮಿತ ಭಾಗಗಳನ್ನು ಕತ್ತರಿಸಿ ಸೋಂಕಿತ ಎಲೆಗಳನ್ನು ತೆಗೆದುಹಾಕಿ.",
+        "moderate": "ತಾಮ್ರ ಆಧಾರಿತ ಸ್ಪ್ರೇ ಬಳಸಿ ಮತ್ತು ತೇವಾಂಶ ಕಡಿಮೆಮಾಡಿ.",
+        "high": "ಶಿಲೀಂಧ್ರನಾಶಕಗಳೊಂದಿಗೆ ಸಮಗ್ರ ರೋಗ ನಿರ್ವಹಣೆ ಜಾರಿಗೆ ತರುವಿರಿ."
+      }
+    },
+    "te": {
+      "name": "ఆల్గల్ ఆకుల మచ్చ",
+      "info": "పరాన్నజీవ ఆల్గే కారణంగా వచ్చే వ్యాధి, ఇది ఆకులపై హరిత వృత్తాకార మచ్చలను ఏర్పరుస్తుంది.",
+      "occurrence": "తేమగా మరియు నీడగా ఉన్న ప్రాంతాల్లో వృద్ధి చెందుతుంది, ముఖ్యంగా గాలిలేని తోటల్లో.",
+      "time_of_occurrence": "వర్షాకాలంలో అత్యధికంగా కనిపిస్తుంది.",
+      "causes": "Cephaleuros virescens ఆల్గే వల్ల, ఇది బలహీనమైన మొక్కలను ప్రభావితం చేస్తుంది.",
+      "treatment": {
+        "primary": "ప్రభావిత ప్రాంతాలను కత్తిరించి, పాడైన ఆకులను తీసివేయండి.",
+        "moderate": "తామ్ర ఆధారిత స్ప్రేలు ఉపయోగించి తేమను తగ్గించండి.",
+        "high": "శిలీంద్రనాశకాలతో సమగ్ర వ్యాధి నిర్వహణను అమలు చేయండి."
+      }
+    }
+  },
+  "Brown Eye Spot": {
+    "en": {
+      "name": "Brown Eye Spot",
+      "info": "A fungal disease causing circular brown spots with yellow halos on leaves.",
+      "occurrence": "More common in warm, wet conditions and poorly managed farms.",
+      "time_of_occurrence": "Usually seen during prolonged rainy periods.",
+      "causes": "Caused by the fungus Cercospora coffeicola, often spread by rain and wind.",
+      "treatment": {
+        "primary": "Improve air circulation and remove affected leaves.",
+        "moderate": "Use organic control methods such as neem extracts.",
+        "high": "Apply copper-based fungicides or systemic treatments."
+      }
+    },
+    "es": {
+      "name": "Mancha marrón del ojo",
+      "info": "Una enfermedad fúngica que causa manchas marrones circulares con halos amarillos en las hojas.",
+      "occurrence": "Más común en condiciones cálidas y húmedas y en fincas mal gestionadas.",
+      "time_of_occurrence": "Generalmente se observa durante períodos prolongados de lluvia.",
+      "causes": "Causada por el hongo Cercospora coffeicola, a menudo diseminada por la lluvia y el viento.",
+      "treatment": {
+        "primary": "Mejorar la circulación del aire y eliminar las hojas afectadas.",
+        "moderate": "Utilizar métodos de control orgánicos como extractos de neem.",
+        "high": "Aplicar fungicidas a base de cobre o tratamientos sistémicos."
+      }
+    },
+    "hi": {
+      "name": "ब्राउन आई स्पॉट",
+      "info": "एक फंगल रोग जो पत्तियों पर पीले घेरे के साथ भूरे रंग के गोल धब्बे बनाता है।",
+      "occurrence": "गर्म और नम स्थितियों में अधिक सामान्य और खराब प्रबंधित खेतों में होता है।",
+      "time_of_occurrence": "आमतौर पर लंबे समय तक बारिश के दौरान देखा जाता है।",
+      "causes": "Cercospora coffeicola नामक कवक के कारण होता है, जो बारिश और हवा से फैलता है।",
+      "treatment": {
+        "primary": "हवा की आवाजाही सुधारें और संक्रमित पत्तियों को हटाएं।",
+        "moderate": "नीम अर्क जैसे जैविक नियंत्रण विधियों का उपयोग करें।",
+        "high": "तांबा-आधारित फफूंदनाशकों या प्रणालीगत उपचारों का प्रयोग करें।"
+      }
+    },
+    "kn": {
+      "name": "ಬ್ರೌನ್ ಐ ಸ್ಪಾಟ್",
+      "info": "ಎಲೆಗಳಲ್ಲಿ ಹಳದಿ ವಲಯಗಳೊಂದಿಗೆ ವೃತ್ತಾಕಾರದ ಕಂದು ಕಲೆಗಳನ್ನು ಉಂಟುಮಾಡುವ ಶಿಲೀಂಧ್ರ ರೋಗ.",
+      "occurrence": "ಬಿಸಿ, ನೈರಾಶ್ಯ ಪರಿಸ್ಥಿತಿಗಳಲ್ಲಿ ಮತ್ತು ಅಶಾಸ್ತ್ರೀಯ ತೋಟಗಳಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿದೆ.",
+      "time_of_occurrence": "ಹೆಚ್ಚು ಮಳೆಯ ಕಾಲದಲ್ಲಿ ಕಾಣಿಸುತ್ತವೆ.",
+      "causes": "Cercospora coffeicola ಎಂಬ ಶಿಲೀಂಧ್ರದಿಂದ ಉಂಟಾಗುತ್ತದೆ, ಇದು ಮಳೆ ಮತ್ತು ಗಾಳಿಯಿಂದ ಹರಡುತ್ತದೆ.",
+      "treatment": {
+        "primary": "ಗಾಳಿಚಲನೆ ಸುಧಾರಿಸಿ ಮತ್ತು ಸೋಂಕಿತ ಎಲೆಗಳನ್ನು ತೆಗೆದುಹಾಕಿ.",
+        "moderate": "ನೀಮ್ ಎಕ್ಸ್ಟ್ರಾಕ್ಟ್ ಬಳಸುವಂತಹ ಸೈವಿಕ ನಿಯಂತ್ರಣ ವಿಧಾನಗಳನ್ನು ಉಪಯೋಗಿಸಿ.",
+        "high": "ತಾಮ್ರ ಆಧಾರಿತ ಶಿಲೀಂಧ್ರನಾಶಕಗಳು ಅಥವಾ ವ್ಯವಸ್ಥಾತ್ಮಕ ಚಿಕಿತ್ಸೆಗಳು ಉಪಯೋಗಿಸಿ."
+      }
+    },
+    "te": {
+      "name": "బ్రౌన్ ఐ స్పాట్",
+      "info": "ఆకులపై పసుపు అంచులతో గోధుమ రంగు వృత్తాకార మచ్చలు ఏర్పడే శిలీంద్ర వ్యాధి.",
+      "occurrence": "వేడి, తేమపూరిత పరిస్థితుల్లో మరియు సక్రమంగా నిర్వహించని తోటలలో సాధారణంగా కనిపిస్తుంది.",
+      "time_of_occurrence": "సాధారణంగా దీర్ఘకాల వర్షాకాలంలో కనిపిస్తుంది.",
+      "causes": "Cercospora coffeicola అనే శిలీంద్రం వలన వస్తుంది, ఇది వాన మరియు గాలివల్ల వ్యాపిస్తుంది.",
+      "treatment": {
+        "primary": "గాలిచలనం మెరుగుపరచండి మరియు పాడైన ఆకులను తొలగించండి.",
+        "moderate": "నిమ్మ నుండి తీసిన సేంద్రీయ నియంత్రణ పద్ధతులను ఉపయోగించండి.",
+        "high": "తామ్ర ఆధారిత శిలీంద్రనాశకాలు లేదా వ్యవస్థాత్మక చికిత్సలను వాడండి."
+      }
+    }
+  },
+  "Fusarium Wilt": {
+    "en": {
+      "name": "Fusarium Wilt",
+      "info": "A soil-borne fungal disease that causes wilting and yellowing of leaves.",
+      "occurrence": "Common in plantations with poor soil drainage.",
+      "time_of_occurrence": "Occurs year-round but worsens in warm, wet conditions.",
+      "causes": "Caused by Fusarium oxysporum, which infects roots and blocks nutrient transport.",
+      "treatment": {
+        "primary": "Remove infected plants and improve drainage.",
+        "moderate": "Use biological control agents like Trichoderma.",
+        "high": "Apply soil fumigants or use resistant coffee varieties."
+      }
+    },
+    "es": {
+      "name": "Marchitez por Fusarium",
+      "info": "Una enfermedad fúngica del suelo que causa marchitamiento y amarillamiento de las hojas.",
+      "occurrence": "Común en plantaciones con mal drenaje del suelo.",
+      "time_of_occurrence": "Ocurre durante todo el año pero empeora en condiciones cálidas y húmedas.",
+      "causes": "Causada por Fusarium oxysporum, que infecta las raíces y bloquea el transporte de nutrientes.",
+      "treatment": {
+        "primary": "Eliminar las plantas infectadas y mejorar el drenaje.",
+        "moderate": "Usar agentes de control biológico como Trichoderma.",
+        "high": "Aplicar fumigantes de suelo o usar variedades de café resistentes."
+      }
+    },
+    "hi": {
+      "name": "फ्यूजेरियम विल्ट",
+      "info": "एक मिट्टी जनित फंगल रोग जो पत्तियों को मुरझा देता है और पीला कर देता है।",
+      "occurrence": "कम जल निकासी वाली बागानों में आम है।",
+      "time_of_occurrence": "साल भर होता है लेकिन गर्म और नम मौसम में अधिक होता है।",
+      "causes": "Fusarium oxysporum के कारण, जो जड़ों को संक्रमित करता है और पोषक तत्वों के प्रवाह को रोकता है।",
+      "treatment": {
+        "primary": "संक्रमित पौधों को हटाएं और जल निकासी सुधारें।",
+        "moderate": "Trichoderma जैसे जैव नियंत्रण एजेंट का प्रयोग करें।",
+        "high": "मिट्टी फ्यूमिगेंट लगाएं या प्रतिरोधी किस्मों का प्रयोग करें।"
+      }
+    },
+    "kn": {
+      "name": "ಫ್ಯೂಸೇರಿಯಮ್ ವಿಳ್ಟ್",
+      "info": "ಮಣ್ಣಿನಲ್ಲಿ ಹರಡುವ ಶಿಲೀಂಧ್ರ ರೋಗವು ಎಲೆಗಳು ಹಳದಿ ಆಗಿ ಉಣಿದಾಗುತ್ತದೆ.",
+      "occurrence": "ಕೆಟ್ಟ ನೀರಿನ ಹರಿವಿರುವ ತೋಟಗಳಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿದೆ.",
+      "time_of_occurrence": "ವರ್ಷಪೂರ್ತಿ ಕಾಣಬಹುದು ಆದರೆ ಬಿಸಿ, ತೇವಾಂಶದ ಪರಿಸ್ಥಿತಿಯಲ್ಲಿ ತೀವ್ರವಾಗುತ್ತದೆ.",
+      "causes": "Fusarium oxysporum ಶಿಲೀಂಧ್ರದಿಂದ ಉಂಟಾಗುತ್ತದೆ, ಇದು ಬೇರುಗಳನ್ನು ಸೋಂಕು ಮಾಡಿ ಪೋಷಕಾಂಶ ಹರಿವನ್ನು ತಡೆಹಿಡಿಯುತ್ತದೆ.",
+      "treatment": {
+        "primary": "ಸಂಕ್ರಮಿತ ಗಿಡಗಳನ್ನು ತೆಗೆಯಿರಿ ಮತ್ತು ನೀರಿನ ಹರಿವನ್ನು ಸುಧಾರಿಸಿ.",
+        "moderate": "Trichoderma ಶಿಲೀಂಧ್ರ ನಾಶಕಗಳನ್ನು ಬಳಸಿರಿ.",
+        "high": "ಮಣ್ಣಿನ ಫ್ಯೂಮಿಗೇಶನ್ ಅಥವಾ ರೋಗ ನಿರೋಧಕ ತಳಿಗಳನ್ನು ಬಳಸಿ."
+      }
+    },
+    "te": {
+      "name": "ఫ్యూసేరియం విల్ట్",
+      "info": "ఈ వ్యాధి మట్టిలో ఉన్న శిలీంధ్రం వల్ల ఆకులు పసిపడటం మరియు ఎండు పోవడం జరుగుతుంది.",
+      "occurrence": "నలుగురికి తక్కువ డ్రెయినేజ్ ఉన్న తోటలలో ఎక్కువగా కనిపిస్తుంది.",
+      "time_of_occurrence": "సమయంతా జరుగుతుంది కానీ వేడి మరియు తేమ పరిస్థితుల్లో ఎక్కువగా కనిపిస్తుంది.",
+      "causes": "Fusarium oxysporum అనే శిలీంద్రం వల్ల వస్తుంది, ఇది మూలాలను ప్రభావితం చేస్తుంది మరియు పోషక పదార్థాల ప్రవాహాన్ని అడ్డుకుంటుంది.",
+      "treatment": {
+        "primary": "పాడైన మొక్కలను తొలగించండి మరియు డ్రెయినేజ్ మెరుగుపరచండి.",
+        "moderate": "Trichoderma వంటి జీవ నియంత్రణ ద్రావణాలను ఉపయోగించండి.",
+        "high": "మట్టిని శుద్ధిచేసే ద్రావణాలను ఉపయోగించండి లేదా వ్యాధినిరోధక కాఫీ రకాలను వాడండి."
+      }
+    }
+  },
+  "Root Rot": {
+    "en": {
+      "name": "Root Rot",
+      "info": "A fungal infection causing decay in coffee plant roots, leading to poor growth.",
+      "occurrence": "Occurs in waterlogged or poorly drained soils.",
+      "time_of_occurrence": "Most severe during the rainy season or when irrigation is excessive.",
+      "causes": "Caused by fungi like Phytophthora spp. and Rhizoctonia spp.",
+      "treatment": {
+        "primary": "Improve soil drainage and avoid overwatering.",
+        "moderate": "Use organic compost and beneficial microbes to restore soil health.",
+        "high": "Apply fungicidal drenches for severe cases."
+      }
+    },
+    "es": {
+      "name": "Podredumbre de raíz",
+      "info": "Una infección fúngica que provoca la descomposición de las raíces del café, lo que lleva a un crecimiento deficiente.",
+      "occurrence": "Ocurre en suelos encharcados o con mal drenaje.",
+      "time_of_occurrence": "Más grave durante la temporada de lluvias o cuando hay riego excesivo.",
+      "causes": "Causada por hongos como Phytophthora spp. y Rhizoctonia spp.",
+      "treatment": {
+        "primary": "Mejorar el drenaje del suelo y evitar el exceso de riego.",
+        "moderate": "Usar compost orgánico y microbios beneficiosos para restaurar la salud del suelo.",
+        "high": "Aplicar fungicidas de riego para casos graves."
+      }
+    },
+    "hi": {
+      "name": "रूट रॉट",
+      "info": "एक फंगल संक्रमण जो कॉफी के पौधों की जड़ों को सड़ा देता है, जिससे विकास रुक जाता है।",
+      "occurrence": "अधिक पानी वाले या खराब जल निकासी वाली मिट्टी में होता है।",
+      "time_of_occurrence": "सबसे गंभीर बरसात के मौसम या अत्यधिक सिंचाई के दौरान होता है।",
+      "causes": "Phytophthora spp. और Rhizoctonia spp. जैसे कवकों के कारण होता है।",
+      "treatment": {
+        "primary": "मिट्टी की जल निकासी सुधारें और अधिक पानी से बचें।",
+        "moderate": "जैविक खाद और लाभकारी सूक्ष्मजीवों का उपयोग करके मिट्टी की सेहत को सुधारें।",
+        "high": "गंभीर मामलों में कवकनाशी से मिट्टी को उपचारित करें।"
+      }
+    },
+    "kn": {
+      "name": "ಬೆರು ನೆನೆತ",
+      "info": "ಕಾಫಿ ಗಿಡದ ಬೇರುಗಳಲ್ಲಿ ಕೊಳೆ ಉಂಟುಮಾಡುವ ಶಿಲೀಂಧ್ರ ಸೋಂಕು, ಇದರಿಂದ ಬೆಳವಣಿಗೆ ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+      "occurrence": "ಹೆಚ್ಚು ನೀರಿನಲ್ಲಿ ಅಥವಾ ನೀರಿನ ಹರಿವು ಕಡಿಮೆ ಇರುವ ಮಣ್ಣಿನಲ್ಲಿ ಸಂಭವಿಸುತ್ತದೆ.",
+      "time_of_occurrence": "ಮಳೆಗಾಲದಲ್ಲಿ ಅಥವಾ ಹೆಚ್ಚು ನೀರಾವರಿ ಮಾಡಿದಾಗ ಗಂಭೀರವಾಗಿ ಕಾಣಿಸುತ್ತದೆ.",
+      "causes": "Phytophthora spp. ಮತ್ತು Rhizoctonia spp. ಎಂಬ ಶಿಲೀಂಧ್ರಗಳಿಂದ ಉಂಟಾಗುತ್ತದೆ.",
+      "treatment": {
+        "primary": "ಮಣ್ಣಿನ ನೀರಿನ ಹರಿವನ್ನು ಸುಧಾರಿಸಿ ಮತ್ತು ಹೆಚ್ಚು ನೀರಾವರಿಯಿಂದ ತಪ್ಪಿಸಿಕೊಳ್ಳಿ.",
+        "moderate": "ಸೈವಿಕ ಕಾಂಪೋಸ್ಟ್ ಮತ್ತು ಲಾಭದಾಯಕ ಸೂಕ್ಷ್ಮ ಜೀವಿಗಳನ್ನು ಬಳಸಿಕೊಂಡು ಮಣ್ಣಿನ ಆರೋಗ್ಯವನ್ನು ಸುಧಾರಿಸಿ.",
+        "high": "ತೀವ್ರ ಸ್ಥಿತಿಗಳಲ್ಲಿ ಶಿಲೀಂಧ್ರನಾಶಕ ದ್ರಾವಣಗಳನ್ನು ಬಳಸಿರಿ."
+      }
+    },
+    "te": {
+      "name": "రూట్ రాట్",
+      "info": "కాఫీ మొక్కల రేకులలో కుళ్లను కలిగించే శిలీంద్ర వ్యాధి, ఇది మొక్కల పెరుగుదలను దెబ్బతీయుతుంది.",
+      "occurrence": "నీటి నిల్వలు గల లేదా చెడ్డ డ్రెయినేజ్ ఉన్న మట్టిలో సంభవిస్తుంది.",
+      "time_of_occurrence": "వర్షాకాలంలో లేదా అధిక నీటిపారుదల సమయంలో తీవ్రంగా ఉంటుంది.",
+      "causes": "Phytophthora spp. మరియు Rhizoctonia spp. వంటి శిలీంధ్రాల వల్ల వస్తుంది.",
+      "treatment": {
+        "primary": "మట్టిలో నీటి పారుదల మెరుగుపరచండి మరియు అధిక నీటిపోస్తే నివారించండి.",
+        "moderate": "సేంద్రీయ కంపోస్ట్ మరియు లాభదాయకమైన సూక్ష్మజీవులను ఉపయోగించి మట్టిని పునరుద్ధరించండి.",
+        "high": "తీవ్రంగా ఉన్నప్పుడు శిలీంద్రనాశక ద్రావణాలను వాడండి."
+      }
+    }
+  },
+  "Bacterial Blight": {
+    "en": {
+      "name": "Bacterial Blight",
+      "info": "A bacterial infection that causes dark, water-soaked lesions on leaves and stems.",
+      "occurrence": "Common in plantations with high humidity and frequent rainfall.",
+      "time_of_occurrence": "Most severe during the rainy season.",
+      "causes": "Caused by bacteria such as Pseudomonas syringae, often spread by rain and insects.",
+      "treatment": {
+        "primary": "Remove and destroy infected plant parts.",
+        "moderate": "Use copper-based bactericides and improve air circulation.",
+        "high": "Apply antibiotics or resistant cultivars in severe outbreaks."
+      }
+    },
+    "es": {
+      "name": "Tizón bacteriano",
+      "info": "Una infección bacteriana que causa lesiones oscuras y húmedas en hojas y tallos.",
+      "occurrence": "Común en plantaciones con alta humedad y lluvias frecuentes.",
+      "time_of_occurrence": "Más severo durante la temporada de lluvias.",
+      "causes": "Causado por bacterias como Pseudomonas syringae, propagadas por lluvia e insectos.",
+      "treatment": {
+        "primary": "Eliminar y destruir las partes infectadas de la planta.",
+        "moderate": "Utilizar bactericidas a base de cobre y mejorar la circulación del aire.",
+        "high": "Aplicar antibióticos o cultivos resistentes en brotes severos."
+      }
+    },
+    "hi": {
+      "name": "बैक्टीरियल ब्लाइट",
+      "info": "एक जीवाणु संक्रमण जो पत्तियों और तनों पर गहरे, पानी से भीगे घाव बनाता है।",
+      "occurrence": "अधिक आर्द्रता और बार-बार बारिश वाले क्षेत्रों में आम।",
+      "time_of_occurrence": "सबसे गंभीर बारिश के मौसम में होता है।",
+      "causes": "Pseudomonas syringae जैसे जीवाणुओं के कारण होता है, जो बारिश और कीटों द्वारा फैलते हैं।",
+      "treatment": {
+        "primary": "संक्रमित पौधों के हिस्सों को हटाएं और नष्ट करें।",
+        "moderate": "तांबा आधारित जीवाणुनाशकों का उपयोग करें और हवा का प्रवाह सुधारें।",
+        "high": "गंभीर प्रकोप में एंटीबायोटिक्स या प्रतिरोधी किस्मों का उपयोग करें।"
+      }
+    },
+    "kn": {
+      "name": "ಜೈವಿಕ ಲೆಕ್ಕವಿಲ್ಲದ ರೋಗ",
+      "info": "ಎಲೆಗಳು ಮತ್ತು ಕಾಂಡಗಳಲ್ಲಿ ಕಪ್ಪು, ನೀರಿನಿಂದ ನುಣುಪಾದ ಗಾಯಗಳನ್ನು ಉಂಟುಮಾಡುವ ಬ್ಯಾಕ್ಟೀರಿಯಾ ಸೋಂಕು.",
+      "occurrence": "ಹೆಚ್ಚು ತೇವಾಂಶ ಮತ್ತು ಧಾರಾಕಾರ ಮಳೆಯಿರುವ ತೋಟಗಳಲ್ಲಿ ಸಾಮಾನ್ಯ.",
+      "time_of_occurrence": "ಮಳೆಯ ಋತುದಲ್ಲಿ ಹೆಚ್ಚು ತೀವ್ರವಾಗಿರುತ್ತದೆ.",
+      "causes": "Pseudomonas syringae ರೋಗಾಣುಗಳಿಂದ ಉಂಟಾಗುತ್ತದೆ, ಮಳೆಯ ಮತ್ತು ಕೀಟಗಳ ಮೂಲಕ ಹರಡುತ್ತದೆ.",
+      "treatment": {
+        "primary": "ಸಂಕ್ರಮಿತ ಭಾಗಗಳನ್ನು ತೆಗೆದುಹಾಕಿ ಮತ್ತು ನಾಶಮಾಡಿ.",
+        "moderate": "ತಾಮ್ರ ಆಧಾರಿತ ಬ್ಯಾಕ್ಟೀರಿಯಾದ ತೊಳೆಯುವಿಕೆ ಬಳಸಿರಿ ಮತ್ತು ಗಾಳಿಯ ಹರಿವು ಸುಧಾರಿಸಿ.",
+        "high": "ತೀವ್ರ ಪರಿಸ್ಥಿತಿಯಲ್ಲಿ ಪ್ರತಿರೋಧಕ ತಳಿಗಳನ್ನು ಅಥವಾ ಆಂಟಿಬಯೋಟಿಕ್‌ಗಳನ್ನು ಉಪಯೋಗಿಸಿ."
+      }
+    },
+    "te": {
+      "name": "బాక్టీరియల్ బ్లైట్",
+      "info": "ఇది ఆకులు మరియు కాండాలపై నలుపు మరియు నీటితో నిండిన గాయాలను కలిగించే బ్యాక్టీరియా వ్యాధి.",
+      "occurrence": "తేమ ఎక్కువగా ఉండే మరియు ఎక్కువ వర్షపాతం ఉన్న తోటలలో సాధారణంగా ఉంటుంది.",
+      "time_of_occurrence": "వర్షాకాలంలో ఇది ఎక్కువగా జరుగుతుంది.",
+      "causes": "Pseudomonas syringae వంటి బ్యాక్టీరియాలు వర్షం మరియు కీటకాల ద్వారా వ్యాపిస్తాయి.",
+      "treatment": {
+        "primary": "పాడైన మొక్కల భాగాలను తొలగించి ధ్వంసం చేయండి.",
+        "moderate": "తామ్ర ఆధారిత బాక్టీరియాసైడ్లను ఉపయోగించండి మరియు గాలిచలనం మెరుగుపరచండి.",
+        "high": "తీవ్ర దాడుల్లో యాంటిబయోటిక్స్ లేదా వ్యాధినిరోధక రకాలను వాడండి."
+      }
+    }
+  },
+  "Coffee Berry Disease (CBD)": {
+    "en": {
+      "name": "Coffee Berry Disease (CBD)",
+      "info": "A fungal infection affecting coffee cherries, leading to premature dropping.",
+      "occurrence": "Common in high-altitude, cool, and humid environments.",
+      "time_of_occurrence": "Usually appears during wet and cold seasons.",
+      "causes": "Caused by the fungus Colletotrichum kahawae, spreading through rain and wind.",
+      "treatment": {
+        "primary": "Remove infected berries and prune trees to improve ventilation.",
+        "moderate": "Apply organic fungicides like neem oil.",
+        "high": "Use systemic fungicides such as benomyl or copper-based sprays."
+      }
+    },
+    "es": {
+      "name": "Enfermedad del fruto del café (CBD)",
+      "info": "Una infección fúngica que afecta a las cerezas de café, provocando su caída prematura.",
+      "occurrence": "Común en ambientes frescos, húmedos y de gran altitud.",
+      "time_of_occurrence": "Generalmente aparece durante temporadas frías y lluviosas.",
+      "causes": "Causada por el hongo Colletotrichum kahawae, que se propaga por la lluvia y el viento.",
+      "treatment": {
+        "primary": "Eliminar los frutos infectados y podar los árboles para mejorar la ventilación.",
+        "moderate": "Aplicar fungicidas orgánicos como el aceite de neem.",
+        "high": "Usar fungicidas sistémicos como benomyl o aerosoles a base de cobre."
+      }
+    },
+    "hi": {
+      "name": "कॉफी बेरी रोग (CBD)",
+      "info": "एक फंगल संक्रमण जो कॉफी के फलों को प्रभावित करता है और समय से पहले झड़ने का कारण बनता है।",
+      "occurrence": "ज्यादातर ऊंचाई वाले, ठंडे और नम क्षेत्रों में पाया जाता है।",
+      "time_of_occurrence": "आमतौर पर गीले और ठंडे मौसम में होता है।",
+      "causes": "Colletotrichum kahawae फफूंदी के कारण होता है, जो बारिश और हवा से फैलता है।",
+      "treatment": {
+        "primary": "संक्रमित फलों को हटाएं और वेंटिलेशन सुधारने के लिए पेड़ों की छंटाई करें।",
+        "moderate": "नीम तेल जैसे जैविक फफूंदनाशकों का प्रयोग करें।",
+        "high": "Benomyl या कॉपर बेस्ड फफूंदनाशकों का उपयोग करें।"
+      }
+    },
+    "kn": {
+      "name": "ಕಾಫಿ ಬೆರ್ರಿ ರೋಗ (CBD)",
+      "info": "ಕಾಫಿ ಬೆರ್ರಿಗಳನ್ನು ಪರಿಣಾಮಗೊಳಿಸುವ ಶಿಲೀಂಧ್ರ ರೋಗ, ಇದು ಸಮಯಕ್ಕಿಂತ ಮೊದಲೇ ಹಣ್ಣುಗಳು ಬೀಳುತ್ತವೆ.",
+      "occurrence": "ಹೆಚ್ಚು ಎತ್ತರದ, ತಂಪಾದ ಮತ್ತು ತೇವಾಂಶಪೂರ್ಣ ಪರಿಸರಗಳಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿದೆ.",
+      "time_of_occurrence": "ಮಳೆಯು ಮತ್ತು ತಂಪಾದ ಕಾಲದಲ್ಲಿ ಹೆಚ್ಚು ಕಾಣಿಸುತ್ತದೆ.",
+      "causes": "Colletotrichum kahawae ಎಂಬ ಶಿಲೀಂಧ್ರದಿಂದ ಉಂಟಾಗುತ್ತದೆ, ಇದು ಮಳೆ ಮತ್ತು ಗಾಳಿಯಿಂದ ಹರಡುತ್ತದೆ.",
+      "treatment": {
+        "primary": "ಸಂಕ್ರಮಿತ ಬೆರ್ರಿಗಳನ್ನು ತೆಗೆದುಹಾಕಿ ಮತ್ತು ಗಾಳಿಚಲನೆ ಸುಧಾರಿಸಲು ಗಿಡಗಳನ್ನು ಕತ್ತರಿಸಿ.",
+        "moderate": "ನೀಮ್ ಎಣ್ಣೆಯಂತಹ ಸೈವಿಕ ಶಿಲೀಂಧ್ರನಾಶಕ ಬಳಸಿ.",
+        "high": "Benomyl ಅಥವಾ ತಾಮ್ರ ಆಧಾರಿತ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಬಳಸಿ."
+      }
+    },
+    "te": {
+      "name": "కాఫీ బెర్రీ వ్యాధి (CBD)",
+      "info": "కాఫీ బెర్రీలను ప్రభావితం చేసే శిలీంద్ర వ్యాధి, ఇది ముందుగానే బెర్రీలు పడిపోవడానికి కారణమవుతుంది.",
+      "occurrence": "ఎక్కువ ఎత్తు, చల్లటి మరియు తేమతో కూడిన ప్రాంతాలలో సాధారణంగా ఉంటుంది.",
+      "time_of_occurrence": "వర్షాకాలం మరియు చల్లటి కాలంలో ఎక్కువగా కనిపిస్తుంది.",
+      "causes": "Colletotrichum kahawae అనే శిలీంద్రం వలన ఇది వస్తుంది, ఇది వర్షం మరియు గాలితో వ్యాపిస్తుంది.",
+      "treatment": {
+        "primary": "సంభవిత బెర్రీలను తొలగించి గాలిచలనం మెరుగుపరచడానికి మొక్కలను కత్తిరించండి.",
+        "moderate": "నిమ్మెన్నె వంటి సేంద్రీయ శిలీంద్రనాశకాలను వాడండి.",
+        "high": "Benomyl లేదా తామ్ర ఆధారిత శిలీంద్రనాశకాలను ఉపయోగించండి."
+      }
+    }
+  },
+  "Verticillium Wilt": {
+    "en": {
+      "name": "Verticillium Wilt",
+      "info": "A soil-borne fungal disease that blocks water flow in plants, leading to wilting and yellowing.",
+      "occurrence": "Common in cooler regions with poorly drained soils.",
+      "time_of_occurrence": "Occurs throughout the year but is more severe in cooler months.",
+      "causes": "Caused by Verticillium species that infect plant roots and vascular systems.",
+      "treatment": {
+        "primary": "Remove infected plants and improve soil drainage.",
+        "moderate": "Use organic compost and soil solarization methods.",
+        "high": "Apply soil fumigants and grow resistant coffee varieties."
+      }
+    },
+    "es": {
+      "name": "Marchitez por Verticillium",
+      "info": "Una enfermedad fúngica del suelo que bloquea el flujo de agua en las plantas, provocando marchitamiento y amarillamiento.",
+      "occurrence": "Común en regiones frías con suelos mal drenados.",
+      "time_of_occurrence": "Ocurre durante todo el año, pero es más severa en los meses fríos.",
+      "causes": "Causada por especies de Verticillium que infectan las raíces y el sistema vascular de las plantas.",
+      "treatment": {
+        "primary": "Eliminar las plantas infectadas y mejorar el drenaje del suelo.",
+        "moderate": "Utilizar compost orgánico y métodos de solarización del suelo.",
+        "high": "Aplicar fumigantes de suelo y cultivar variedades de café resistentes."
+      }
+    },
+    "hi": {
+      "name": "वर्टिसिलियम विल्ट",
+      "info": "एक मिट्टी जनित फंगल रोग जो पौधों में जल प्रवाह को रोकता है जिससे मुरझाना और पीला पड़ना होता है।",
+      "occurrence": "ठंडे क्षेत्रों में और खराब जल निकासी वाली मिट्टी में आम है।",
+      "time_of_occurrence": "सालभर हो सकता है लेकिन ठंड के महीनों में अधिक गंभीर होता है।",
+      "causes": "Verticillium प्रजातियों द्वारा होता है जो पौधों की जड़ों और वाहिकीय प्रणाली को संक्रमित करते हैं।",
+      "treatment": {
+        "primary": "संक्रमित पौधों को हटाएं और मिट्टी की जल निकासी सुधारें।",
+        "moderate": "जैविक खाद और सौर नसबंदी विधियों का उपयोग करें।",
+        "high": "मिट्टी को फ्यूमिगेट करें और प्रतिरोधी कॉफी किस्में लगाएं।"
+      }
+    },
+    "kn": {
+      "name": "ವೆರ್ಟಿಸಿಲಿಯಮ್ ವಿಳ್ಟ್",
+      "info": "ಮಣ್ಣಿನಲ್ಲಿ ಹರಡುವ ಶಿಲೀಂಧ್ರ ರೋಗವು ಗಿಡದಲ್ಲಿ ನೀರಿನ ಹರಿವನ್ನು ತಡೆಯುತ್ತದೆ, ಇದರಿಂದ ಉಣಿಕೆ ಮತ್ತು ಎಲೆಗಳ ಹಳದಿ ಆಗುವುದುಂಟು.",
+      "occurrence": "ತಂಪಾದ ಪ್ರದೇಶಗಳಲ್ಲಿ ಮತ್ತು ನೀರಿನ ಹರಿವು ಕಡಿಮೆ ಇರುವ ಮಣ್ಣಿನಲ್ಲಿ ಸಾಮಾನ್ಯ.",
+      "time_of_occurrence": "ವರ್ಷಪೂರ್ತಿ ಕಾಣಬಹುದು, ಆದರೆ ಚಳಿಗಾಲದಲ್ಲಿ ಹೆಚ್ಚು ತೀವ್ರವಾಗಿದೆ.",
+      "causes": "Verticillium ಪ್ರಜಾತಿಗಳಿಂದ ಉಂಟಾಗುತ್ತದೆ, ಇದು ಗಿಡದ ಬೇರುಗಳು ಮತ್ತು ಜಾಲಕ ನಾಳಿಕೆಗಳನ್ನು ಸೋಂಕು ಮಾಡುತ್ತದೆ.",
+      "treatment": {
+        "primary": "ಸಂಕ್ರಮಿತ ಗಿಡಗಳನ್ನು ತೆಗೆಯಿರಿ ಮತ್ತು ಮಣ್ಣಿನ ನೀರಿನ ಹರಿವನ್ನು ಸುಧಾರಿಸಿ.",
+        "moderate": "ಸೈವಿಕ ಕಾಂಪೋಸ್ಟ್ ಮತ್ತು ಸೂರ್ಯನ ಶುದ್ಧೀಕರಣ ವಿಧಾನಗಳನ್ನು ಬಳಸಿ.",
+        "high": "ಮಣ್ಣಿನ ಫ್ಯೂಮಿಗೇಶನ್ ಮಾಡಿ ಮತ್ತು ರೋಗ ನಿರೋಧಕ ಕಾಫಿ ತಳಿಗಳನ್ನು ಬೆಳೆಸಿ."
+      }
+    },
+    "te": {
+      "name": "వర్టిసిలియం విల్ట్",
+      "info": "ఈ మట్టి శిలీంధ్ర వ్యాధి మొక్కల్లో నీటి ప్రవాహాన్ని అడ్డుకుంటుంది, దానివల్ల మురుగడం మరియు ఆకుల పసుపు వాపు కలుగుతుంది.",
+      "occurrence": "చల్లని ప్రాంతాల్లో మరియు నీటి పారుదల తక్కువగా ఉన్న మట్టిలో సాధారణంగా కనిపిస్తుంది.",
+      "time_of_occurrence": "సమయంతా ఉండే వ్యాధి, కానీ చల్లని కాలంలో ఎక్కువగా ఉంటుంది.",
+      "causes": "Verticillium జాతి శిలీంధ్రాలు ఇది కలిగిస్తాయి, ఇవి మొక్కల మూలాలను మరియు నాళాల వ్యవస్థను ప్రభావితం చేస్తాయి.",
+      "treatment": {
+        "primary": "పాడైన మొక్కలను తొలగించి మట్టిలో నీటి పారుదల మెరుగుపరచండి.",
+        "moderate": "సేంద్రీయ కంపోస్ట్ మరియు భూమిని సౌర శుద్ధి చేయండి.",
+        "high": "మట్టిని శుద్ధి చేసి వ్యాధినిరోధక కాఫీ రకాలను వేసుకోవాలి."
+      }
+    }
+  },
+  "Black Rot": {
+    "en": {
+      "name": "Black Rot",
+      "info": "A fungal disease that causes black decay on coffee leaves, berries, and stems.",
+      "occurrence": "Thrives in humid environments with poor air circulation.",
+      "time_of_occurrence": "Most common during the rainy season.",
+      "causes": "Caused by the fungus Botryosphaeria spp. which spreads through spores in wet conditions.",
+      "treatment": {
+        "primary": "Remove and destroy infected plant parts and improve pruning practices.",
+        "moderate": "Apply organic sprays like neem and garlic extracts.",
+        "high": "Use copper-based or systemic fungicides for control."
+      }
+    },
+    "es": {
+      "name": "Podredumbre negra",
+      "info": "Una enfermedad fúngica que causa descomposición negra en hojas, bayas y tallos de café.",
+      "occurrence": "Prospera en ambientes húmedos con mala circulación de aire.",
+      "time_of_occurrence": "Más común durante la temporada de lluvias.",
+      "causes": "Causada por el hongo Botryosphaeria spp., que se propaga a través de esporas en condiciones húmedas.",
+      "treatment": {
+        "primary": "Eliminar y destruir las partes infectadas de la planta y mejorar la poda.",
+        "moderate": "Aplicar aerosoles orgánicos como extractos de neem y ajo.",
+        "high": "Usar fungicidas sistémicos o a base de cobre para el control."
+      }
+    },
+    "hi": {
+      "name": "ब्लैक रॉट",
+      "info": "एक फंगल रोग जो कॉफी की पत्तियों, फलों और तनों पर काले सड़न का कारण बनता है।",
+      "occurrence": "नम वातावरण और खराब वेंटिलेशन में अधिक होता है।",
+      "time_of_occurrence": "बरसात के मौसम में सबसे आम होता है।",
+      "causes": "Botryosphaeria spp. नामक कवक के कारण होता है, जो गीली स्थिति में बीजाणुओं से फैलता है।",
+      "treatment": {
+        "primary": "संक्रमित हिस्सों को हटाएं और नष्ट करें, और छंटाई की प्रक्रिया सुधारें।",
+        "moderate": "नीम और लहसुन के अर्क जैसे जैविक स्प्रे का प्रयोग करें।",
+        "high": "तांबा आधारित या प्रणालीगत फफूंदनाशक का उपयोग करें।"
+      }
+    },
+    "kn": {
+      "name": "ಕಪ್ಪು ಕೊಳೆ",
+      "info": "ಕಾಫಿ ಎಲೆಗಳು, ಬೆರ್ರಿಗಳು ಮತ್ತು ಕಾಂಡಗಳಲ್ಲಿ ಕಪ್ಪು ಕೊಳೆ ಉಂಟುಮಾಡುವ ಶಿಲೀಂಧ್ರ ರೋಗ.",
+      "occurrence": "ನೀರು ತುಂಬಿದ ಪರಿಸರದಲ್ಲಿ, ಗಾಳಿಚಲನೆ ಕಡಿಮೆ ಇರುವ ಪ್ರದೇಶಗಳಲ್ಲಿ ಬೆಳೆಯುತ್ತದೆ.",
+      "time_of_occurrence": "ಮಳೆಯ ಋತುವಿನಲ್ಲಿ ಹೆಚ್ಚು ಕಂಡುಬರುತ್ತದೆ.",
+      "causes": "Botryosphaeria spp. ಎಂಬ ಶಿಲೀಂಧ್ರದಿಂದ ಉಂಟಾಗುತ್ತದೆ, ಇದು ತೇವಾಂಶದ ಪರಿಸ್ಥಿತಿಯಲ್ಲಿ ಬೀಜಗಳ ಮೂಲಕ ಹರಡುತ್ತದೆ.",
+      "treatment": {
+        "primary": "ಸಂಕ್ರಮಿತ ಭಾಗಗಳನ್ನು ತೆಗೆಯಿ ಮತ್ತು ನಾಶಮಾಡಿ, ಹಾಗೂ ಕಡಿಯುವಿಕೆಯನ್ನು ಸುಧಾರಿಸಿ.",
+        "moderate": "ನೀಮ್ ಮತ್ತು ಬೆಳ್ಳುಳ್ಳಿ अर्कದಂತಹ ಸೈವಿಕ ಸ್ಪ್ರೇ ಬಳಸಿ.",
+        "high": "ತಾಮ್ರ ಆಧಾರಿತ ಅಥವಾ ವ್ಯವಸ್ಥಾತ್ಮಕ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಬಳಸಿ."
+      }
+    },
+    "te": {
+      "name": "బ్లాక్ రాట్",
+      "info": "కాఫీ ఆకులు, బెర్రీలు మరియు కాండాలలో నలుపు పూడికలు కలిగించే శిలీంద్ర వ్యాధి.",
+      "occurrence": "తేమతో కూడిన వాతావరణంలో గాలిచలనం తక్కువగా ఉండే ప్రాంతాలలో విస్తరిస్తుంది.",
+      "time_of_occurrence": "వర్షాకాలంలో అత్యధికంగా కనిపిస్తుంది.",
+      "causes": "Botryosphaeria spp. అనే శిలీంధ్రం వల్ల వస్తుంది, ఇది తేమపూరిత పరిస్థితుల్లో స్పోర్లు ద్వారా వ్యాపిస్తుంది.",
+      "treatment": {
+        "primary": "పాడైన మొక్కల భాగాలను తొలగించి నాశనం చేయండి మరియు కత్తిరింపు చర్యలను మెరుగుపరచండి.",
+        "moderate": "నిమ్మ మరియు వెల్లుల్లి సారం వంటి సేంద్రీయ ద్రావణాలను ఉపయోగించండి.",
+        "high": "తామ్ర ఆధారిత లేదా వ్యవస్థాత్మక శిలీంద్రనాశకాలను ఉపయోగించండి."
+      }
+    }
+  },
+  "American Leaf Spot": {
+    "en": {
+      "name": "American Leaf Spot",
+      "info": "A fungal disease characterized by brown lesions on leaves, sometimes with white centers.",
+      "occurrence": "Found mostly in wet and shaded coffee plantations.",
+      "time_of_occurrence": "Common during humid and rainy seasons.",
+      "causes": "Caused by the fungus Mycena citricolor, thriving in damp conditions.",
+      "treatment": {
+        "primary": "Remove and destroy infected leaves and increase sunlight exposure.",
+        "moderate": "Apply copper-based fungicides and organic sprays.",
+        "high": "Use resistant coffee varieties and improve plantation sanitation."
+      }
+    },
+    "es": {
+      "name": "Mancha foliar americana",
+      "info": "Una enfermedad fúngica caracterizada por lesiones marrones en las hojas, a veces con centros blancos.",
+      "occurrence": "Se encuentra principalmente en plantaciones de café húmedas y sombreadas.",
+      "time_of_occurrence": "Común durante temporadas lluviosas y húmedas.",
+      "causes": "Causada por el hongo Mycena citricolor, que prospera en condiciones húmedas.",
+      "treatment": {
+        "primary": "Eliminar y destruir las hojas infectadas y aumentar la exposición al sol.",
+        "moderate": "Aplicar fungicidas a base de cobre y aerosoles orgánicos.",
+        "high": "Usar variedades de café resistentes y mejorar la sanidad de la plantación."
+      }
+    },
+    "hi": {
+      "name": "अमेरिकन लीफ स्पॉट",
+      "info": "एक फंगल रोग जिसमें पत्तियों पर भूरे घाव बनते हैं, कभी-कभी सफेद केंद्र के साथ।",
+      "occurrence": "अधिकतर गीले और छायादार कॉफी बागानों में पाया जाता है।",
+      "time_of_occurrence": "नमी और बारिश वाले मौसम में सामान्य होता है।",
+      "causes": "Mycena citricolor फफूंदी के कारण होता है, जो नम स्थितियों में पनपती है।",
+      "treatment": {
+        "primary": "संक्रमित पत्तियों को हटाएं और धूप की पहुँच बढ़ाएं।",
+        "moderate": "कॉपर आधारित और जैविक स्प्रे का उपयोग करें।",
+        "high": "प्रतिरोधी किस्में उगाएं और बागान की स्वच्छता सुधारें।"
+      }
+    },
+    "kn": {
+      "name": "ಅಮೇರಿಕನ್ ಎಲೆ ಕಲೆ",
+      "info": "ಎಲೆಗಳಲ್ಲಿ ಕಂದು ಕಲೆಗಳು ಕಂಡುಬರುವ ಶಿಲೀಂಧ್ರ ರೋಗ, ಕೆಲವೊಮ್ಮೆ सफೇದ ಕೇಂದ್ರಗಳೊಂದಿಗೆ.",
+      "occurrence": "ಹೆಚ್ಚಾಗಿ ತೇವಾಂಶಪೂರ್ಣ ಮತ್ತು ನೆರಳಿನ ಕಾಫಿ ತೋಟಗಳಲ್ಲಿ ಕಂಡುಬರುತ್ತದೆ.",
+      "time_of_occurrence": "ನಮ್ಮ ಮತ್ತು ಮಳೆಯ ಋತುವಿನಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿದೆ.",
+      "causes": "Mycena citricolor ಎಂಬ ಶಿಲೀಂಧ್ರದಿಂದ ಉಂಟಾಗುತ್ತದೆ, ಇದು ತೇವ ಪರಿಸ್ಥಿತಿಯಲ್ಲಿ ಬೆಳೆಯುತ್ತದೆ.",
+      "treatment": {
+        "primary": "ಸಂಕ್ರಮಿತ ಎಲೆಗಳನ್ನು ತೆಗೆದುಹಾಕಿ ಮತ್ತು ಬೆಳಕು ಸುಧಾರಿಸಿ.",
+        "moderate": "ತಾಮ್ರ ಆಧಾರಿತ ಶಿಲೀಂಧ್ರನಾಶಕಗಳು ಮತ್ತು ಸೈವಿಕ ಸ್ಪ್ರೇ ಬಳಸಿ.",
+        "high": "ರೋಗ ನಿರೋಧಕ ತಳಿಗಳನ್ನು ಬೆಳೆಸಿ ಮತ್ತು ತೋಟದ ಸ್ವಚ್ಚತೆಯನ್ನು ಸುಧಾರಿಸಿ."
+      }
+    },
+    "te": {
+      "name": "అమెరికన్ ఆకుల మచ్చ",
+      "info": "ఈ శిలీంద్ర వ్యాధి ఆకులపై గోధుమ మచ్చలు కలిగిస్తుంది, కొన్ని సందర్భాల్లో తెల్లకేంద్రం ఉంటుంది.",
+      "occurrence": "తేమగా మరియు నీడగా ఉన్న కాఫీ తోటలలో కనిపిస్తుంది.",
+      "time_of_occurrence": "తేమ మరియు వర్షాకాలంలో సాధారణంగా ఉంటుంది.",
+      "causes": "Mycena citricolor అనే శిలీంధ్రం వల్ల, ఇది తేమపూరిత పరిస్థితుల్లో పుంజుకుంటుంది.",
+      "treatment": {
+        "primary": "పాడైన ఆకులను తొలగించి ధూపాన్ని పెంచండి.",
+        "moderate": "తామ్ర ఆధారిత మరియు సేంద్రీయ శిలీంద్రనాశకాలను వాడండి.",
+        "high": "వ్యాధినిరోధక రకాలను వాడండి మరియు తోట పరిశుభ్రతను మెరుగుపరచండి."
+      }
+    }
+  },
+  "Pink Disease": {
+    "en": {
+      "name": "Pink Disease",
+      "info": "A fungal disease that affects branches and stems, causing a pinkish fungal growth.",
+      "occurrence": "Occurs in warm and humid conditions, especially in densely planted areas.",
+      "time_of_occurrence": "More common during the monsoon or rainy seasons.",
+      "causes": "Caused by the fungus Corticium salmonicolor, which spreads through spores.",
+      "treatment": {
+        "primary": "Prune affected parts and improve air circulation by thinning branches.",
+        "moderate": "Apply Bordeaux mixture or copper-based fungicides.",
+        "high": "Use systemic fungicides for severe infections."
+      }
+    },
+    "es": {
+      "name": "Enfermedad rosada",
+      "info": "Una enfermedad fúngica que afecta ramas y tallos, causando un crecimiento fúngico rosado.",
+      "occurrence": "Ocurre en condiciones cálidas y húmedas, especialmente en áreas densamente plantadas.",
+      "time_of_occurrence": "Más común durante el monzón o temporadas de lluvia.",
+      "causes": "Causada por el hongo Corticium salmonicolor, que se propaga por esporas.",
+      "treatment": {
+        "primary": "Poda las partes afectadas y mejora la circulación del aire aclarando ramas.",
+        "moderate": "Aplicar mezcla bordelesa o fungicidas a base de cobre.",
+        "high": "Usar fungicidas sistémicos para infecciones severas."
+      }
+    },
+    "hi": {
+      "name": "पिंक डिज़ीज़",
+      "info": "एक फंगल रोग जो शाखाओं और तनों को प्रभावित करता है, जिससे गुलाबी रंग का कवकीय वृद्धि होती है।",
+      "occurrence": "गर्म और नम क्षेत्रों में होता है, विशेषकर घने पौधों में।",
+      "time_of_occurrence": "मानसून या बारिश के मौसम में अधिक सामान्य।",
+      "causes": "Corticium salmonicolor नामक फफूंदी के कारण होता है, जो बीजाणुओं से फैलती है।",
+      "treatment": {
+        "primary": "प्रभावित शाखाओं की छंटाई करें और वायुप्रवाह के लिए शाखाएं पतली करें।",
+        "moderate": "बोर्डो मिश्रण या तांबा आधारित फफूंदनाशक का उपयोग करें।",
+        "high": "गंभीर संक्रमण के लिए प्रणालीगत फफूंदनाशक का प्रयोग करें।"
+      }
+    },
+    "kn": {
+      "name": "ಪಿಂಕ್ ರೋಗ",
+      "info": "ಶಾಖೆಗಳು ಮತ್ತು ಕಾಂಡಗಳನ್ನು ಪರಿಣಾಮಗೊಳಿಸುವ ಶಿಲೀಂಧ್ರ ರೋಗ, ಅದು ಗುಲಾಬಿ ಬಣ್ಣದ ಬೆಳವಣಿಗೆಯನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ.",
+      "occurrence": "ಬಿಸಿ ಮತ್ತು ತೇವಾಂಶಪೂರ್ಣ ಪರಿಸ್ಥಿತಿಗಳಲ್ಲಿ, ವಿಶೇಷವಾಗಿ ಹೆಚ್ಚು ಗಿಡಗಳಿರುವ ಪ್ರದೇಶಗಳಲ್ಲಿ ಕಂಡುಬರುತ್ತದೆ.",
+      "time_of_occurrence": "ಮಳೆಗಾಲ ಅಥವಾ ಮೊಂಡದ ಋತುವಿನಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿದೆ.",
+      "causes": "Corticium salmonicolor ಎಂಬ ಶಿಲೀಂಧ್ರದಿಂದ ಉಂಟಾಗುತ್ತದೆ, ಇದು ಬೀಜಗಳ ಮೂಲಕ ಹರಡುತ್ತದೆ.",
+      "treatment": {
+        "primary": "ಸಂಕ್ರಮಿತ ಶಾಖೆಗಳನ್ನು ಕತ್ತರಿಸಿ ಮತ್ತು ಗಾಳಿಚಲನೆಗಾಗಿ ಕಡಿಯುವಿಕೆಯನ್ನು ಸುಧಾರಿಸಿ.",
+        "moderate": "ಬೋರ್ಡೋ ಮಿಶ್ರಣ ಅಥವಾ ತಾಮ್ರ ಆಧಾರಿತ ಶಿಲೀಂಧ್ರನಾಶಕ ಬಳಸಿ.",
+        "high": "ತೀವ್ರ ಸೋಂಕಿಗೆ ವ್ಯವಸ್ಥಾತ್ಮಕ ಶಿಲೀಂಧ್ರನಾಶಕ ಬಳಸಿ."
+      }
+    },
+    "te": {
+      "name": "పింక్ డిసీజ్",
+      "info": "శాఖలు మరియు కాండాలను ప్రభావితం చేసే శిలీంద్ర వ్యాధి, ఇది గులాబీ రంగు శిలీంద్రపు పెరుగుదల కలిగిస్తుంది.",
+      "occurrence": "వేడి మరియు తేమపూరిత పరిస్థితుల్లో, ముఖ్యంగా సాంద్రంగా నాటిన తోటలలో కనిపిస్తుంది.",
+      "time_of_occurrence": "మొన్సూన్ లేదా వర్షాకాలంలో సాధారణంగా కనిపిస్తుంది.",
+      "causes": "Corticium salmonicolor అనే శిలీంద్రం వల్ల ఇది ఏర్పడుతుంది, ఇది స్పోర్ల ద్వారా వ్యాపిస్తుంది.",
+      "treatment": {
+        "primary": "పాడైన శాఖలను తొలగించి గాలిచలనం కోసం కత్తిరించండి.",
+        "moderate": "బోర్డో మిశ్రమం లేదా తామ్ర ఆధారిత శిలీంద్రనాశకాలను వాడండి.",
+        "high": "తీవ్రంగా ఉన్నప్పుడు వ్యవస్థాత్మక శిలీంద్రనాశకాలు ఉపయోగించండి."
+      }
+    }
+  },
+  "Root Knot Nematode": {
+    "en": {
+      "name": "Root Knot Nematode",
+      "info": "A parasitic nematode that causes galls or knots on roots, reducing nutrient absorption.",
+      "occurrence": "Thrives in sandy soils and poorly managed plantations.",
+      "time_of_occurrence": "Occurs year-round, but effects intensify in dry seasons.",
+      "causes": "Caused by Meloidogyne spp., which infects roots and disrupts water and nutrient uptake.",
+      "treatment": {
+        "primary": "Remove heavily infected plants and solarize soil before planting.",
+        "moderate": "Use organic amendments and beneficial nematode antagonists.",
+        "high": "Apply nematicides or grow nematode-resistant varieties."
+      }
+    },
+    "es": {
+      "name": "Nematodo del nudo de la raíz",
+      "info": "Un nematodo parásito que causa agallas o nudos en las raíces, reduciendo la absorción de nutrientes.",
+      "occurrence": "Prospera en suelos arenosos y plantaciones mal gestionadas.",
+      "time_of_occurrence": "Ocurre todo el año, pero los efectos se intensifican en temporadas secas.",
+      "causes": "Causado por Meloidogyne spp., que infecta las raíces e interfiere en la absorción de agua y nutrientes.",
+      "treatment": {
+        "primary": "Eliminar plantas muy infectadas y solarizar el suelo antes de plantar.",
+        "moderate": "Usar enmiendas orgánicas y antagonistas beneficiosos de nematodos.",
+        "high": "Aplicar nematicidas o cultivar variedades resistentes a nematodos."
+      }
+    },
+    "hi": {
+      "name": "रूट नॉट नेमाटोड",
+      "info": "एक परजीवी कृमि जो जड़ों पर गांठ बनाता है और पोषक तत्वों के अवशोषण को कम करता है।",
+      "occurrence": "रेतीली मिट्टी और खराब तरीके से प्रबंधित बागानों में पनपता है।",
+      "time_of_occurrence": "साल भर होता है, लेकिन सूखे मौसम में प्रभाव अधिक होता है।",
+      "causes": "Meloidogyne spp. के कारण होता है, जो जड़ों को संक्रमित करता है और जल व पोषक तत्वों के अवशोषण को बाधित करता है।",
+      "treatment": {
+        "primary": "अत्यधिक संक्रमित पौधों को हटाएं और रोपण से पहले मिट्टी का सौर कीटाणुशोधन करें।",
+        "moderate": "जैविक संशोधन और लाभकारी नेमाटोड विरोधी जीवों का उपयोग करें।",
+        "high": "नेमाटीसाइड का प्रयोग करें या नेमाटोड-प्रतिरोधी किस्में लगाएं।"
+      }
+    },
+    "kn": {
+      "name": "ಬೆರು ಗುಡ್ಡ ನೆಮಾಟೋಡ್",
+      "info": "ಬೇರುಗಳಲ್ಲಿ ಗುಬ್ಬೆಗಳಾಗುವಂತಹ ಪರೋಪಜೀವಿ ನೆಮಾಟೋಡ್, ಇದು ಪೋಷಕಾಂಶ ಶೋಷಣೆಯನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ.",
+      "occurrence": "ಜೇಣು ಮಣ್ಣು ಮತ್ತು ದುರ್ಬಲ ನಿರ್ವಹಣೆಯ ತೋಟಗಳಲ್ಲಿ ಬೆಳೆಯುತ್ತದೆ.",
+      "time_of_occurrence": "ವರ್ಷಪೂರ್ತಿ ಕಾಣಿಸಿಕೊಳ್ಳಬಹುದು, ಆದರೆ ಬಿಸಿಲಿನ ಹಂಗಾಮಿಯಲ್ಲಿ ಹೆಚ್ಚು ತೀವ್ರವಾಗುತ್ತದೆ.",
+      "causes": "Meloidogyne spp. ಎಂಬ ನೆಮಾಟೋಡ್‌ನಿಂದ ಉಂಟಾಗುತ್ತದೆ, ಇದು ಬೇರುಗಳನ್ನು ಸೋಂಕು ಮಾಡುತ್ತದೆ ಮತ್ತು ಜಲ-ಪೋಷಕಾಂಶ ಶೋಷಣೆಯನ್ನು ತಡೆಯುತ್ತದೆ.",
+      "treatment": {
+        "primary": "ತೀವ್ರವಾಗಿ ಸೋಂಕಿತ ಗಿಡಗಳನ್ನು ತೆಗೆಯಿರಿ ಮತ್ತು ನೆಡುವ ಮೊದಲು ಮಣ್ಣನ್ನು ಸೌರ ಶುದ್ಧೀಕರಿಸಿ.",
+        "moderate": "ಸೈವಿಕ ಸೂಕ್ಷ್ಮ ಜೀವಿಗಳು ಮತ್ತು ಲಾಭದಾಯಕ ನೆಮಾಟೋಡ್ ಶತ್ರುಗಳನ್ನು ಬಳಸಿ.",
+        "high": "ನೆಮಾಟೋಸೈಡ್ ಬಳಸಿ ಅಥವಾ ನಿರೋಧಕ ತಳಿಗಳನ್ನು ಬೆಳೆಸಿ."
+      }
+    },
+    "te": {
+      "name": "రూట్ నాట్ నెమటోడ్",
+      "info": "మూలాలను ప్రభావితం చేసే పరాన్నజీవి నెమటోడ్, ఇది మూలాలపై ముదురు లేదా ముడతలు కలిగిస్తుంది మరియు పోషకాలు తీసుకోవడాన్ని తగ్గిస్తుంది.",
+      "occurrence": "ఇది మట్టికణికలు అధికంగా ఉన్న భూమిలో మరియు తక్కువ నిర్వహణతో ఉన్న తోటల్లో విస్తరిస్తుంది.",
+      "time_of_occurrence": "సంవత్సరమంతా ఉంటుంది, కానీ ఎండాకాలంలో ప్రభావం ఎక్కువగా ఉంటుంది.",
+      "causes": "Meloidogyne spp. అనే నెమటోడ్ వలన వస్తుంది, ఇది మూలాలను ప్రభావితం చేస్తుంది మరియు నీరు, పోషక పదార్థాల శోషణను అడ్డుకుంటుంది.",
+      "treatment": {
+        "primary": "బాగా దెబ్బతిన్న మొక్కలను తొలగించి నాటే ముందు మట్టిని సూర్యశుద్ధి చేయండి.",
+        "moderate": "సేంద్రీయ పదార్థాలు మరియు లాభదాయక నెమటోడ్ నియంత్రకాలను ఉపయోగించండి.",
+        "high": "నెమటిసైడ్లను ఉపయోగించండి లేదా నెమటోడ్ నిరోధక రకాలను వాడండి."
+      }
+    }
+  },
+  "Coffee Berry Borer": {
+    "en": {
+      "name": "Coffee Berry Borer",
+      "info": "A destructive insect pest that bores into coffee berries and damages the beans.",
+      "occurrence": "Common in warm and humid coffee-growing regions.",
+      "time_of_occurrence": "Most active during the harvesting season.",
+      "causes": "Caused by the beetle Hypothenemus hampei, which lays eggs inside the coffee berry.",
+      "treatment": {
+        "primary": "Collect and destroy infected berries and practice clean harvesting.",
+        "moderate": "Use biological control like parasitoid wasps and entomopathogenic fungi.",
+        "high": "Apply insecticides as per integrated pest management practices."
+      }
+    },
+    "es": {
+      "name": "Broca del café",
+      "info": "Una plaga de insecto destructiva que perfora las cerezas de café y daña los granos.",
+      "occurrence": "Común en regiones cálidas y húmedas donde se cultiva café.",
+      "time_of_occurrence": "Más activa durante la temporada de cosecha.",
+      "causes": "Causada por el escarabajo Hypothenemus hampei, que pone huevos dentro de la cereza del café.",
+      "treatment": {
+        "primary": "Recolectar y destruir las cerezas infectadas y mantener una cosecha limpia.",
+        "moderate": "Utilizar control biológico como avispas parasitoides y hongos entomopatógenos.",
+        "high": "Aplicar insecticidas según prácticas de manejo integrado de plagas."
+      }
+    },
+    "hi": {
+      "name": "कॉफी बेरी बोरर",
+      "info": "एक कीट जो कॉफी के फलों को छेदकर बीजों को नुकसान पहुंचाता है।",
+      "occurrence": "गर्म और नम कॉफी उत्पादन क्षेत्रों में आम है।",
+      "time_of_occurrence": "फसल कटाई के मौसम में सबसे अधिक सक्रिय।",
+      "causes": "Hypothenemus hampei नामक बीटल के कारण, जो कॉफी फलों में अंडे देती है।",
+      "treatment": {
+        "primary": "संक्रमित फलों को इकट्ठा करें और नष्ट करें, और स्वच्छ कटाई का अभ्यास करें।",
+        "moderate": "परजीवी ततैया और कीटनाशक फफूंद जैसे जैविक नियंत्रण विधियों का उपयोग करें।",
+        "high": "एकीकृत कीट प्रबंधन के अनुसार कीटनाशकों का प्रयोग करें।"
+      }
+    },
+    "kn": {
+      "name": "ಕಾಫಿ ಬೆರ್ರಿ ಬೋರೆರ್",
+      "info": "ಕಾಫಿ ಬೆರ್ರಿಗಳನ್ನು ಭೇದಿಸುವ ಮತ್ತು ಬೀಜಗಳನ್ನು ಹಾನಿಗೊಳಿಸುವ ಧ್ವಂಸಕೀಟ.",
+      "occurrence": "ಬಿಸಿ ಮತ್ತು ತೇವಾಂಶಪೂರ್ಣ ಪ್ರದೇಶಗಳಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ಕಂಡುಬರುತ್ತದೆ.",
+      "time_of_occurrence": "ಪೆಣೆದಳುವ ಋತುವಿನಲ್ಲಿ ಹೆಚ್ಚು ಚಟುವಟಿಕೆಯಿಂದಿರುತ್ತದೆ.",
+      "causes": "Hypothenemus hampei ಎಂಬ ಬೀಟಲ್ ಕಾಫಿ ಬೆರ್ರಿಗಳೊಳಗೆ ಮೊಟ್ಟೆ ಇಡುತ್ತದೆ.",
+      "treatment": {
+        "primary": "ಪೀಡಿತ ಬೆರ್ರಿಗಳನ್ನು ಸಂಗ್ರಹಿಸಿ ನಾಶಮಾಡಿ ಮತ್ತು ಶುದ್ಧ ಪೆಣೆದಳುವ ಅಭ್ಯಾಸ ಮಾಡಿ.",
+        "moderate": "ಪ್ಯಾರಾಸಿಟಾಯ್ಡ್ ತುತ್ತುಹುಳುಗಳು ಮತ್ತು ಕೀಟನಾಶಕ ಶಿಲೀಂಧ್ರಗಳನ್ನು ಉಪಯೋಗಿಸಿ.",
+        "high": "ಸಮಗ್ರ ಕೀಟ ನಿರ್ವಹಣೆಯಂತೆ ಕೀಟನಾಶಕವನ್ನು ಉಪಯೋಗಿಸಿ."
+      }
+    },
+    "te": {
+      "name": "కాఫీ బెర్రీ బోరర్",
+      "info": "కాఫీ బెర్రీల్లోకి త్రవ్వి గింజలను ధ్వంసం చేసే ప్రమాదకరమైన పురుగు.",
+      "occurrence": "వేడి మరియు తేమపూరిత కాఫీ ఉత్పత్తి ప్రాంతాల్లో సాధారణంగా ఉంటుంది.",
+      "time_of_occurrence": "పంట కోత సమయంలో ఎక్కువగా ఉంటుంది.",
+      "causes": "Hypothenemus hampei అనే బీటిల్ కాఫీ బెర్రీలోకి గుడ్లు వేస్తుంది.",
+      "treatment": {
+        "primary": "దెబ్బతిన్న బెర్రీలను సేకరించి నాశనం చేయండి మరియు శుభ్రమైన కోత విధానాలను పాటించండి.",
+        "moderate": "పెరసిటాయిడ్ తుట్టుగూళ్లు మరియు కీటకనాశక శిలీంధ్రాలతో జీవ నియంత్రణ వాడండి.",
+        "high": "కీటకాల సమగ్ర నిర్వహణ ప్రక్రియల ప్రకారం కీటకనాశకాలను వాడండి."
+      }
+    }
+  },
+  "Rust - Hemileia vastatrix": {
+  "en": {
+    "name": "Rust - Hemileia vastatrix",
+    "info": "A fungal disease causing orange powdery lesions on the underside of leaves.",
+    "occurrence": "Common in humid climates",
+    "time_of_occurrence": "Mostly during wet seasons",
+    "causes": "Caused by the fungus Hemileia vastatrix",
+    "treatment": {
+      "primary": "Apply appropriate fungicides.",
+      "moderate": "Prune and remove infected leaves.",
+      "high": "Introduce resistant coffee varieties."
+    }
+  },
+  "es": {
+    "name": "Roya - Hemileia vastatrix",
+    "info": "Enfermedad fúngica que causa lesiones anaranjadas en el reverso de las hojas.",
+    "occurrence": "Común en climas húmedos",
+    "time_of_occurrence": "Principalmente durante temporadas húmedas",
+    "causes": "Causada por el hongo Hemileia vastatrix",
+    "treatment": {
+      "primary": "Aplicar fungicidas adecuados.",
+      "moderate": "Poda y elimina hojas infectadas.",
+      "high": "Utilizar variedades de café resistentes."
+    }
+  },
+  "hi": {
+    "name": "रस्ट - हेमिलिया वास्टेट्रिक्स",
+    "info": "एक फंगल रोग जो पत्तियों के नीचे नारंगी चूर्णीय धब्बे बनाता है।",
+    "occurrence": "नमी वाले क्षेत्रों में सामान्य",
+    "time_of_occurrence": "आमतौर पर बरसात के मौसम में",
+    "causes": "हेमिलिया वास्टेट्रिक्स फफूंद से उत्पन्न",
+    "treatment": {
+      "primary": "उपयुक्त कवकनाशी का प्रयोग करें।",
+      "moderate": "संक्रमित पत्तियों को छांटें।",
+      "high": "प्रतिरोधक किस्मों का उपयोग करें।"
+    }
+  },
+  "kn": {
+    "name": "ತುಪ್ಪಲು ರೋಗ - ಹೆಮಿಲಿಯಾ ವಾಸ್ಟೆಟ್ರಿಕ್ಸ್",
+    "info": "ಇದು ಎಲೆಗಳ ಕೆಳಭಾಗದಲ್ಲಿ ಕಿತ್ತಳೆ ಬಣ್ಣದ ಪುಡಿಯ ಕಲೆಗಳನ್ನು ಉಂಟುಮಾಡುವ ಶಿಲೀಂಧ್ರ ರೋಗವಾಗಿದೆ.",
+    "occurrence": "ಆರ್ದ್ರ ಹವಾಮಾನದಲ್ಲಿ ಸಾಮಾನ್ಯ",
+    "time_of_occurrence": "ಹೆಚ್ಚಾಗಿ ಮಳೆಗಾಲದಲ್ಲಿ",
+    "causes": "ಹೆಮಿಲಿಯಾ ವಾಸ್ಟೆಟ್ರಿಕ್ಸ್ ಶಿಲೀಂಧ್ರದಿಂದ ಉಂಟಾಗುತ್ತದೆ",
+    "treatment": {
+      "primary": "ಸರಿಯಾದ ಶಿಲೀಂಧ್ರನಾಶಕವನ್ನು ಬಳಸಿ.",
+      "moderate": "ಅನಾರೋಗ್ಯ ಎಲೆಗಳನ್ನು ತೆಗೆದುಹಾಕಿ.",
+      "high": "ರೋಗ ನಿರೋಧಕ ತಳಿಗಳನ್ನು ಬಳಸಿರಿ."
+    }
+  },
+  "te": {
+    "name": "రస్ట్ - హేమిలియా వాస్టెట్రిక్స్",
+    "info": "ఇది ఆకుల దిగువ భాగంలో నారింజ రంగు పొడి ధబ్బులను ఏర్పరిచే శిలీంధ్ర వ్యాధి.",
+    "occurrence": "తేమ ఉన్న వాతావరణంలో సాధారణం",
+    "time_of_occurrence": "వర్షాకాలంలో అధికంగా కనిపిస్తుంది",
+    "causes": "హేమిలియా వాస్టెట్రిక్స్ అనే శిలీంధ్రం వల్ల",
+    "treatment": {
+      "primary": "సరైన శిలీంధ్రనాశకాలను ఉపయోగించండి.",
+      "moderate": "సంఖ్యిత ఆకులను తొలగించండి.",
+      "high": "నిరోధక రకాలను ఉపయోగించండి."
+    }
+  }
+},
+  "Wilt - Fusarium spp.": {
+  "en": {
+    "name": "Wilt - Fusarium spp.",
+    "info": "A soil-borne fungal disease that causes wilting and yellowing of leaves.",
+    "occurrence": "Prevalent in poorly drained soils",
+    "time_of_occurrence": "More common in warm climates",
+    "causes": "Caused by Fusarium fungi in soil",
+    "treatment": {
+      "primary": "Improve soil drainage.",
+      "moderate": "Apply fungicide and compost.",
+      "high": "Use resistant cultivars."
+    }
+  },
+  "es": {
+    "name": "Marchitez - Fusarium spp.",
+    "info": "Enfermedad del suelo que causa marchitez y amarilleo de las hojas.",
+    "occurrence": "Común en suelos mal drenados",
+    "time_of_occurrence": "Más común en climas cálidos",
+    "causes": "Causada por hongos Fusarium en el suelo",
+    "treatment": {
+      "primary": "Mejorar el drenaje del suelo.",
+      "moderate": "Aplicar fungicida y compost.",
+      "high": "Usar cultivares resistentes."
+    }
+  },
+  "hi": {
+    "name": "विल्ट - फ्यूजेरियम spp.",
+    "info": "एक मृदा जनित फंगल रोग जो पत्तियों को पीला और मुरझा देता है।",
+    "occurrence": "कम जल निकासी वाली मिट्टी में सामान्य",
+    "time_of_occurrence": "गर्म जलवायु में अधिक सामान्य",
+    "causes": "फ्यूजेरियम कवक के कारण",
+    "treatment": {
+      "primary": "मिट्टी की जल निकासी सुधारें।",
+      "moderate": "फफूंदनाशक और कंपोस्ट डालें।",
+      "high": "प्रतिरोधी किस्में लगाएं।"
+    }
+  },
+  "kn": {
+    "name": "ಉಣಿಕೆ - ಫ್ಯೂಸೇರಿಯಮ್ spp.",
+    "info": "ಮಣ್ಣಿನಲ್ಲಿರುವ ಶಿಲೀಂಧ್ರಗಳಿಂದ ಉಂಟಾಗುವ ಉಣಿಕೆ ಮತ್ತು ಎಲೆಗಳು ಹಳದಿಯಾಗುವ ರೋಗ.",
+    "occurrence": "ಕೆಟ್ಟದಾಗಿ ಜಲಾವೃತವಾದ ಮಣ್ಣಿನಲ್ಲಿ ಸಾಮಾನ್ಯ",
+    "time_of_occurrence": "ಹೆಚ್ಚಾಗಿ ಬೆಚ್ಚಗಿನ ಹವಾಮಾನದಲ್ಲಿ",
+    "causes": "ಮಣ್ಣಿನಲ್ಲಿರುವ ಫ್ಯೂಸೇರಿಯಮ್ ಶಿಲೀಂಧ್ರಗಳಿಂದ ಉಂಟಾಗುತ್ತದೆ",
+    "treatment": {
+      "primary": "ಮಣ್ಣಿನ ಜಲಾವೃತತೆಯನ್ನು ಸುಧಾರಿಸಿ.",
+      "moderate": "ಶಿಲೀಂಧ್ರನಾಶಕ ಮತ್ತು ಹೆಣ್ಣುಪ್ರದಾನ ದ್ರವ್ಯವನ್ನು ಸೇರಿಸಿ.",
+      "high": "ರೋಗನಿರೋಧಕ ತಳಿಗಳನ್ನು ಬಳಸಿರಿ."
+    }
+  },
+  "te": {
+    "name": "విల్ట్ - ఫ్యూజేరియం spp.",
+    "info": "మట్టిలో ఉన్న శిలీంధ్రాల వల్ల ఏర్పడే ఆకుల మురుగు మరియు పచ్చబడే వ్యాధి.",
+    "occurrence": "చెడు నీటి పారుదల కలిగిన నేలల్లో ఎక్కువగా కనిపిస్తుంది",
+    "time_of_occurrence": "వెచ్చని వాతావరణంలో ఎక్కువగా",
+    "causes": "మట్టిలో ఫ్యూజేరియం శిలీంధ్రం వల్ల",
+    "treatment": {
+      "primary": "నీటి పారుదల మెరుగుపరచండి.",
+      "moderate": "శిలీంధ్రనాశకాలు మరియు కంపోస్ట్ ఉపయోగించండి.",
+      "high": "నిరోధక రకాలను ఉపయోగించండి."
+    }
+  }
+}
+}
